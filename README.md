@@ -1,4 +1,9 @@
-# helpful-explanations
+# helpful-helpful-natural-language-explanations
+
+This is the repository for the paper: "Can LLM-Generated Textual Explanations Enhance Model Classification Performance? An Empirical Study" Accepted to International Conference on Artificial Neural Networks (ICANN) 2025.
+
+- Paper link: TBA
+
 
 Training runs can be started with the following command, filling in the values for the arguments. 
 
