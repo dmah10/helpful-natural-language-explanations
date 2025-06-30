@@ -1,0 +1,1347 @@
+text_1,text_2,label,explanation,human_explanation
+Person in green gear does trick in midair with motorcycle.,Person in gear does trick in midair with motorcycle.,0,"The hypothesis removes unnecessary specificity about the color of the gear, assuming the person's attire is irrelevant to the action.  
+",A person does trick in midair while wearing green gear.
+A man leans against a pay phone while reading a paper.,The man is standing and holing a newspaper.,0,"The premise states the man is leaning against a pay phone, which implies he is standing, and reading a paper suggests he is holding it.  
+",If the man is reading a paper he is reading a newspaper.
+People walk down a street in a metropolitan area where graffiti can be seen.,The graffiti is good art,1,"The presence of graffiti in a metropolitan area suggests that some individuals view it as a form of artistic expression.  
+",Not all graffiti is good art
+Football players wearing helmets practice defensive moves while their coach stands by ready to blow his whistle.,The coach drills his team hard,0,"The coach's readiness to blow his whistle suggests he is actively overseeing and correcting the players' defensive moves, indicating a rigorous training approach.  
+","In both sentence, coach are teaching her team."
+A young woman in relaxed clothing vacuuming hallway with small vacuum.,A mother cleans up after her children who spilled cereal in the hallway by vacuuming.,1,"The young woman's relaxed clothing and the small vacuum suggest a casual cleaning task, likely related to a minor mess like spilled cereal.  
+",Not all women are a mother with children.
+A person is standing a display with their back facing us.,The person is sitting on the bench.,2,"If a person is standing at a display, they could be positioned near a bench.  
+",A person cannot be both standing and sitting on the bench at the same time.
+One lone skier is making his way down a snowy mountain slope which has many ski track marks visible on the snow pack and a ski lift in the background.,A man is surfing at the beach.,2,"There is no logical connection between a skier on a mountain and a surfer at the beach.  
+",Snowy mountain slope cannot be beach simultaneously.
+A slim woman is walking a wet street holding a red umbrella.,A woman jogs a street with umbrellas.,2,"While the premise describes a specific woman walking in the rain, it doesn't rule out the possibility of other women jogging on streets with umbrellas.  
+","One cannot walk and jog at the same time, and there can be only one umbrella or multiple umbrellas."
+A woman and a man standing on a busy city street smiling.,The woman and the man are frowning.,2,"The hypothesis directly contradicts the stated emotions expressed in the premise.  
+",The couple is either standing or frowning.
+A man with his surfboard stands in the sand.,fo,1,"The hypothesis ""fo"" could represent the sound a wave makes as it crashes on the shore, which is something a person standing in the sand near a surfboard might hear.  
+",
+A congregation is watching the Pope give a speech.,The Pope is old,1,"The Pope's long tenure as a religious leader suggests he is likely of advanced age.  
+",A Pope is likely to be old but the possibility of the Pope being young or middle aged can't be discounted.
+The children played on the four wheeler in the field.,The children are riding west on the four wheeler.,1,"We cannot determine the direction the children are riding based solely on the information that they played on a four-wheeler in a field.  
+",It is not known if the children are riding west.
+five girls dressed alike,There are five kids with the same clothes,0,"If the girls are all dressed alike, then they are a subset of the group of kids wearing the same clothes.  
+","The five kids are all girls, and they are dressed alike meaning same clothes"
+Four people in black shirts giving a presentation to a room full of people using a big projector image on the wall.,four individuals are presenting their business plan,1,"A presentation using a projector image is a common way to deliver a business plan.  
+",Using a projector does not imply presenting a business plan.
+A Guy is swimming in the pool with his eye goggles on.,A guy is practicing swimming for the semi-finals.,1,"Someone swimming with goggles on might be training for a competitive event like the semi-finals.  
+",Swimming does not imply practicing for semi-finals.
+People are looking at construction being done in a town street.,People watch as a new hotel is built.,1,"Construction on a town street is often associated with the development of new buildings, such as hotels.  
+",People are looking at construction being done in a town street does not indicate that he watch as a new hotel is built.
+"Two people wait on a train, one in a yellow shirt and one that looks like a male in a green belly shirt.",Two people don't wait on a train,2,"The hypothesis states that no one waits on the train, which directly contradicts the premise describing two people waiting.  
+",If people wait on a train they don't not wait.
+young boy wearing a red USA shirt is using either a toy or science equipment.,A child is performing an experiment,1,"The premise states the boy is using either a toy or science equipment, and experiments often involve the use of such items.  
+",The child is not necessarily performing an experiment.
+"A female speaker wearing a gray jacket, a dark scoop necked top with a dark knee length skirt is presenting to a group using a computer to present as well as a microphone at the podium.",The woman is standing in front of people.,0,"The premise states that the woman is presenting to a group, which implies she is standing in front of them.  
+",A female speaker is a woman. Someone who is presenting to a group is standing in front of people.
+"A blond woman is singing into a microphone and giving the ""okay"" symbol with her left hand.",A young woman is singing.,1,"The premise describes a woman singing, which aligns with the hypothesis that a young woman is singing.  
+",Not all blond women who sing are young.
+Two young men are posing for the camera.,two men posing for a photo to put on facebook,1,"People often take photos to share on social media platforms like Facebook.  
+",posing for a camera does not specifically mean the photo will be uploaded to Facebook
+two beautiful women stand next to a fountain which is giving off a light mist.,An old woman feed the pigeons in town.,2,"While the premise describes a scene with two women and a fountain, it doesn't offer any information about an old woman or pigeons in the town.  
+",There cannot be both a number of two women then later saying that there is one women.
+Two young girls ride a camel near water.,The girls had fun.,1,"Riding a camel near water is a common activity associated with enjoyment and leisure.  
+",Just because two girls are riding a camel does not infer that they had fun.
+"A man walks through a clearing and carries a rifle along his back, casually holding it by the muzzle.",A man is walking and carrying a fishing pole.,2,"The premise describes a man carrying a weapon, while the hypothesis describes a man carrying a tool typically used for fishing, suggesting they are unrelated activities.  
+",two men walking one carries a rifle and the other carries a fishing pole
+Several bicyclists are riding though a wooded area.,Bicyclists riding their bikes in a race.,1,"While the premise describes bicyclists in a wooded area, it doesn't rule out the possibility that they are participating in a race.  
+",Bicyclists can ride without being in a race.
+A street musician playing.,A street musician is outside.,0,"Street musicians typically perform their music outdoors.  
+",Street musician implies that he is playing outside.
+"Young man with red stains on face, with two women, posing in black clothing.",They are all dressed in white.,2,"The premise describes the individuals wearing black clothing, which is different from the hypothesis stating they are all dressed in white.  
+","You cannot be dressed in black clothing and also white clothing, it must be one or the other."
+Two children in their pajamas one has a mask and hairnet like a surgical nurse and is standing over the older child who is laying down on the wood floor.,the children are wearing business suits,2,"The premise describes children in pajamas, which is incompatible with the hypothesis that they are wearing business suits.  
+",The children wear either pajamas or business suits.
+Two girls in white dresses holding hands and leaning on each another while standing on the shoreline of a calm sea.,The girls are standing next to the river.,2,"Shorelines are often found adjacent to rivers.  
+",One cannot be standing next to the river and the sea at the same time.
+A young girl dressed in white with a pink scarf smiles as she poses next to a fire in a chimney.,A kid poses near a chimney on Christmas.,1,"The description of a young girl in white with a pink scarf, smiling next to a fire in a chimney, strongly suggests a festive occasion like Christmas.  
+",There is no mention of Christmas when the young girl posed in the first sentence.
+"While seated outdoors, a man wearing a harlequin shirt and jeans puts white makeup around his eyes.",The man is sitting in his living room.,2,"There is no logical connection between the description of a man's attire and actions while outdoors and the statement that he is sitting in his living room.  
+",A living room is not outdoors.
+Students are sitting in a classroom listening to six people who are teaching.,The students combined their powers pushing the moon away from the Earth by 6 inches.,2,"There is no logical connection between students listening to teachers and the moon's distance from Earth.  
+","If one is listening, they are not pushing"
+A man in a field with a blue Jacket and a hat holding a stick with two dogs.,A man stands in a field with two dogs.,0,"The hypothesis focuses on the man and his dogs in the field, which are both mentioned in the premise.  
+",A man stands in a field and man in a field are the same phrases.
+A man pans rocks in a button-down shirt and long shorts.,A woman plays tennis.,2,"The premise describes a man's attire, which is unrelated to a woman's activity.  
+","Man and woman are different, panning rocks and playing tennis are different activities, Cannot be both genders or do both activities at the same time."
+Man with a guitar drinking a canned drink.,man drinks beer,1,"While the premise doesn't specify the type of canned drink, it's possible the man is drinking beer.  
+",Not all canned drinks are beer.
+Two women sitting on a bench eating vanilla ice cream.,Two men are eating peanuts.,2,"There is no inherent relationship between two women eating vanilla ice cream and two men eating peanuts.  
+",There can only be two women or two men.
+An aspirin added to the water would preserve the flowers.,The flowers are in water.,0,"If the flowers are in water, then adding aspirin to the water would have a direct effect on them.  
+",aspirin added to water refers that flowers are in water
+A woman giving lecture using promethean board.,There are people eating worms.,2,"It's impossible to determine if people are eating worms based solely on the fact that a woman is giving a lecture using a Promethean board.  
+",Eating worms is different that giving a lecture
+A parade of women in blue costumes walk down the street.,A group of women in blue costumes parade down the street.,0,"The hypothesis simply rephrases the premise using the word ""group"" instead of ""parade.""  
+",parade downs implies walk down.
+A child in pink throwing a snowball at a child in blue.,Two children are interacting with each other wearing different colors.,0,"The premise describes two children, one in pink and one in blue, engaging in an action together, which aligns with the hypothesis of two children interacting while wearing different colors. 
+",Pink and blue are two different colors.
+A group of people sit in the snow overlooking a mountain scene.,People are doing cartwheels in the dry summer field.,2,"There is no logical connection between people sitting in the snow and people doing cartwheels in a dry summer field.  
+",People can not sit while simultaneously be doing cartwheels.  A dry summer field can not be covered in snow.
+"A young lady, wearing a dark colored leotard, is doing a flip on a balance beam.",A young lady is walking across the floor mat.,2,"While the premise describes a specific action on a balance beam, it doesn't preclude the possibility of the young lady walking on the floor mat at another time.  
+",The young lady cannot be simultaneously walking across the floor mat and doing a flip on a balance beam.
+Woman sitting in the shade with a fabric fan.,There is a woman sitting down,0,"The premise states that a woman is sitting in the shade with a fabric fan, which directly implies that there is a woman sitting down.  
+",Sitting refers to sitting down.
+A young lady with an umbrella is walking by while two women are adoring the adorable puppy one gentleman was walking.,A group of people wait in line at an amusement park.,2,"The premise describes a scene with individuals engaging in everyday activities, suggesting a possible setting where people might wait in line at an amusement park.  
+","There are either two women or a group of people, a group of people implies more than two."
+A woman in a green shirt is opening a box.,the woman is asleep,2,"It is unlikely that someone opening a box would be asleep.  
+",The woman cannot be opening a box while asleep.
+A street sweeper patrols the sidewalk.,A police officer patrols the sidewalk.,2,"While a street sweeper maintains cleanliness, a police officer's role is focused on law enforcement and public safety.  
+",One individual cannot fulfill the role of a street sweeper and a police officer simultaneously.
+Blond man wearing a red shirt with a camera in his hands.,A man is getting ready to take a picture of his famiy.,1,"Someone with a camera is likely preparing to capture a moment, and family gatherings are common occasions for photography.  
+",Not all men have a famiy.
+a woman wearing a pink jacket sitting on a staircase with a man wearing a gray hat sitting a few steps behind.,A man and woman are sitting on a staircase.,0,"The premise describes a man and woman sitting on a staircase, fulfilling the conditions of the hypothesis.  
+",A woman sitting on a staircase with a man sitting a few steps behind is a synonym of a man and woman are sitting on a staircase.
+An elderly man sits in a chair in an alleyway.,The man is sitting down.,0,"The act of sitting is implied by the description of the man being in a chair.  
+",sits implies   sitting
+A woman in a white shirt prepares a large meal of hamburgers.,A woman cooks.,0,"Preparing a large meal of hamburgers is an act of cooking.  
+",One cooks when one prepares a meal.
+A family of three is spending the day at the beach.,A family is at the zoo watching the elephants.,2,"There is no logical connection between a family being at the beach and a family being at the zoo.  
+",a family can either be at the beach or can watch elephant at the zoo.
+A cleaning lady walks down the road with a sweeping machine what looks to be an entry way of a building.,A cleaning lady walks home.,1,"It is plausible that the cleaning lady is walking home after finishing her work at the building.  
+",One cannot assume there the cleaning lady is going. She may or may not be walking home.
+Two men are sitting on a pile of fishing nets on a dock next to an elaborately designed fishing vessel.,The men do not have any nets.,2,"The premise states they are sitting on a pile of fishing nets, which directly contradicts the hypothesis that they do not have any nets.  
+",The men either have nets or do not.
+A man is sweating on stage while holding a beer.,A man on stage has a beer in one hand and a guitar in the other.,1,"The premise only describes one object the man is holding, leaving the possibility open for him to hold a guitar in his other hand.  
+",Just because A man is sweating on stage while holding a beer does not indicate that he has a beer in one hand and a guitar in the other.
+An Asian young woman is working with flower while surrounding by her peers.,The woman is working at home.,2,"The presence of peers suggests a social setting, which could be a home environment.  
+",surrounding peers is not the same as home
+A boy jumps off a tan rock.,A boy is trying to get home.,1,"Perhaps the boy jumped off the rock as a shortcut to get home.  
+",A boy is jumping on the  road
+a rock climber climbs a large rock.,The person is climbing a rock.,0,"The hypothesis simply rephrases the action described in the premise.  
+",a person is considered to be a rock climber.
+A construction worker is driving heavy equipment at a work site.,The worker drove heavy equipment.,0,"The hypothesis is a simplified statement of the action described in the premise.  
+","A construction worker is a type of worker, and one must be driving in order to have drove."
+A man carefully shaves his beard.,A man is grooming himself.,0,"Shaving one's beard is a common act of personal grooming.  
+",shaves his beard is same as grooming himself
+A child standing and stirring a pot of food.,A child is cooking for his family.,1,"Stirring a pot of food is a common action performed while preparing a meal for others.  
+",Standing and stirring food does not imply cooking for family.
+The man and woman are drinking out of canning jars.,Man and woman drinking,0,"The act of drinking is implied by the statement that the man and woman are consuming from canning jars.  
+","""The man and woman"" refers to a specific couple."
+A woman is drawing a caricature of a young boy.,The woman is looking at a boy.,1,"To draw a caricature of someone, one must be observing them.  
+",Just because a woman is drawing a caricature of a of a boy does not mean she is looking at a boy.
+A group of people are riding a subway.,There is a gang riding the subway,1,"The presence of a group of people on a subway could potentially indicate the presence of a gang, as gangs sometimes travel together.  
+",Not all groups of people are a gang.
+Two women and one young girl are together in a crowded area.,Three females near each other.,0,"The premise describes a specific group of three females, which aligns with the hypothesis of three females being near each other.  
+",Three females together in a crowded area
+A shot of a few people in a laundromat.,The people are food shopping.,2,"There is no logical connection between seeing people in a laundromat and them being food shopping.  
+",Food shopping generally does not occur in a laundromat.
+A man is standing beside a ladder facing it with tree debris all around him.,the man is wearing a dress.,2,"There is no logical connection between a man standing beside a ladder with tree debris and whether or not he is wearing a dress.  
+",A man would not be wearing a dress standing beside a ladder as a dress is clothes that women wear.
+A football player in a white jersey has his hand on a football player in a green jersey who is in the air.,Two football players in action.,0,"The premise describes two football players interacting, fulfilling the condition of the hypothesis.  
+","Two football players were mentioned, so there can be assumed to be two football players."
+A young woman working in a factory.,Nobody is working,2,"The premise states that a single woman is working, which means the statement that nobody is working is false.  
+","If there is a woman, it is impossible for there to be nobody."
+"A police officer, with many items around his waist, is ordering something at a cafe.",The officer was at the park.,2,"Police officers sometimes patrol parks.  
+",The officer cannot be at the park and cafe at the same time.
+Boy falling off of a sheep while a man in a cowboy hat and sunglasses rushes over to help him.,A boy falls as his father helps him,1,"The man in the cowboy hat and sunglasses could be the boy's father rushing to assist him after he falls.  
+",The man is not necessarily his father.
+Two ladies moving about in an large theater or sports arena.,Two girls are trying to get upfront at a concert.,1,"Large theaters or sports arenas are common venues for concerts.  
+",when two girls are at concert they are not necessarily needed to be in a theater
+Two dogs are on a white carpet with one of the dogs showing its fangs.,Some animals on a carpet,0,"The premise describes two dogs, which are animals, on a carpet.  
+",animals on a carpet  shows that dogs are on a white carpet
+"Cute girl at a children's beauty shop sitting on a toy car having her hair blow-dried, while stylist is smiling and gentleman's arm is touching the car.",The girl does the stylist's hair,2,"The premise describes a scenario where a stylist is attending to a girl's hair, making it unlikely that the girl would be the one styling the stylist's hair.  
+",The girl can't have her hair blow dried while doing the stylist's hair.
+A man in a gray shirt is holding a deck of cards.,The man is wearing gray.,0,"The premise states the man's shirt color, which is a component of what it means to be wearing gray.  
+",A man said to be in a gray shirt can be said to be wearing the color gray.
+The rusty lock is attached to a chain.,The rusty lock was cut and hanging from teh chain,1,"If the lock was cut, it would no longer be attached to anything but the chain.  
+","Just because a rusty lock is attached to a chain, it doesn't reveal any reason to infer that the lock was cut and is hanging."
+A person in a red shirt and black pants rock climbing.,A person is rock climbing.,0,"The premise describes a person engaging in the activity of rock climbing, which is the same action stated in the hypothesis.  
+",Both person are rock climbing.
+Four people walk down a city sidewalk- three facing the camera one away.,People are on the sidewalk.,0,"The premise states that there are people walking on a sidewalk, which directly supports the hypothesis that people are on the sidewalk.  
+",people walk down a city sidewalk implies that they are on sidewalk.
+"A man jogs down a city street, with a line attached to his back that vanishes out of the left side of the picture; a smiling cyclist rides past.",A man is jogging on sidewalk with a fishing line attached to his back; a cyclist rides past while laughing at him.,2,"The hypothesis assumes the line is a fishing line and the cyclist's laughter is directed at the man jogging with it. 
+",A CITY STREET IS NOT A SIDEWALK.
+A lady sitting in a log cabin by herself.,A woman sits alone.,0,"The premise describes a specific scenario of a woman sitting alone in a log cabin, which aligns with the general statement in the hypothesis.  
+",A woman by herself is alone.
+A young man who is running as part of a competition team.,A young man is moving fast.,0,"Competition teams often encourage their members to run at high speeds.  
+",a man who is running is obviously moving fast
+Costumed kids on a jungle gym.,Kids are at an outdoor haloween party.,1,"Costumed children playing on a jungle gym is a common activity at outdoor Halloween parties.  
+",We don't know that the kids are at a haloween party.
+A man plays a bagpipe while another checks on the instrument.,Two men playing piano.,2,"The premise describes a scenario involving musical instruments, but it does not specify the type of instruments being played. 
+",Two men are not one man.  A bagpipe is not a piano.
+The girl eating spaghetti is wearing a red jacket.,The girl in red is having dinner,0,"Since the premise states the girl is wearing a red jacket and eating spaghetti, it can be inferred that she is having dinner.  
+",Spaghetti is for dinner.
+A young woman in a white top and jeans is holding up a sign along with other people.,A woman holds a sign.,0,"The premise states that a woman is holding a sign, which directly supports the hypothesis.  
+",Holding up a sign is another way to say holds a sign and a young woman is a more specific way of saying a woman.
+"Four teenagers, three girls and one boy, are jumping in the air on a sidewalk by the river.","Four teenagers, three girls and one boy, are happily jumping.",1,"While the premise describes the teenagers jumping, it doesn't specify their emotional state, leaving room for them to be happily jumping.  
+","There is no reason to believe they are happily jumping - they could be sad, and still jumping."
+A girl with dreadlocks tries to hit a ball on a waterlogged put-put course.,A girl is playing alone.,1,"The premise doesn't offer information about whether other people are present on the put-put course.  
+",Playing put-put doesn't imply she's alone.
+3 men in t-shirt and shorts sitting on the grass eating food.,The 3 men are outside in their t-shirts.,0,"The premise states they are sitting on the grass eating food, which implies an outdoor setting.  
+","If someone is sitting on grass, they are probably outside."
+"three dogs are running through the snow, one of them throwing up so much snow that he can hardly be seen.",There are dogs outside.,0,"The premise states that dogs are running through the snow, which indicates their presence outside.  
+",dogs are running through the snow means they are outside
+A bike rider in the air above a ramp.,A bike rider standing at the opening gate.,2,"A bike rider in the air above a ramp is likely preparing to descend and would have previously been standing at the opening gate.  
+",A bike rider is either in the air above a ramp or standing at the gate.
+"Three people, smiling while playing cards.",Three people are grinning.,0,"Smiling is a facial expression that often conveys happiness, and grinning is a more exaggerated form of smiling.  
+",Smiling is the same action as grinning.
+A group of children in red t-shirts with white hearts printed on them sit beside a large bus parked in front of a Toys R Us store.,A group of boys and girls sit next to a school bus.,1,"The premise describes children in red t-shirts sitting by a bus in front of a Toys R Us, which could be a school bus transporting them.  
+",Not a group of children are a group of boys and girls.
+A man wearing a mask is cutting a hole in a roof and there is an orange crane next to him.,A man is working for a construction company.,1,"Construction workers often wear masks for safety and use cranes to lift materials, suggesting the man in the premise could be employed in construction.  
+",A man can cut a whole in the roof an not work for a construction company.
+A football player charges down the field after a member of the opposite team.,Some people playing basketball.,2,"The premise describes a scenario in a sport, and the hypothesis mentions people playing a different sport.  
+",football and basketball are different sports
+A woman in a red shoulder shrug and brown boots walking down a street passed a painted I Love New York wall sign with a doctor.,a woman is outside,0,"The premise states that a woman is walking down a street, which implies she is in an outdoor location.  
+",Walking down the street implies being outside.
+"A woman in a black top stands with another man, displaying a group of patterned dresses on hangars.",Two people view dresses hanging from multiple hangars.,0,"The premise describes a specific scenario involving two people and dresses on hangars, which aligns with the general description provided in the hypothesis.  
+","Man and woman are two people, both of which are near dresses."
+A man is hammering an anvil.,An office worker seen at work.,2,"An office worker could be using a hammer as a tool for tasks in their office.  
+","An anvil is not a normal piece of office equipment, so anyone hammering on one is not a normal office worker."
+An elderly man stands on a ladder tending the leaves of a tree.,An elderly man tends to a tree.,0,"The premise describes a specific instance of an elderly man tending to a tree, which supports the broader hypothesis.  
+","""An elderly man tends to a tree"" is a less descriptive version of saying he is on a ladder tending the leaves of the tree."
+A bike riding couple dressed in bike gear and helmets take a minute to site on a bench to talk and park their bikes.,A couple is watching tv,2,"There is no logical connection between a couple taking a break while biking and them being at home watching television.  
+",The couple can either be watching tv or be on a bench where they can't watch tv.
+A man and woman are sitting at a table with a Jenga game in front of them and a few beer bottles.,A man and woman are swimming.,2,"There is no logical connection between people playing Jenga and drinking beer to the idea of them swimming.  
+","The man and a woman cannot be swimming, and at the same time be sitting at a table with a Jenga game."
+A baby eats and has food on his face.,Baby fell asleep while eating food,1,"If a baby fell asleep while eating, it's likely they would have food on their face.  
+",Eats does not imply the baby fell asleep.
+The man writes something on the chalkboard to teach the girl who is standing next to him.,The man is teaching the pupil by writing.,1,"The premise states the man is using writing on the chalkboard as a method to teach the girl.  
+",You can not infer he is teaching.
+Group of children playing soccer with body of water in the background.,It's a sunny day.,1,"Children playing soccer outdoors are more likely to be enjoying sunny weather.  
+",Not all days are a sunny day.
+People are gathering under colored lights in a large tent.,People are meeting in a tent.,1,"The presence of people gathering under colored lights implies a gathering of people, which suggests a meeting.  
+",Gathering at a location does not mean the same as meeting.
+A man with a black hat is walking with a riffle.,The hat is blue,2,"The premise states a specific color for the hat, which directly conflicts with the hypothesis suggesting a different color.  
+",Black and blue are different.
+A boy is standing next to a car in front of a clothesline.,The kid is in a movie theater.,2,"There is no logical connection between a boy standing next to a car in front of a clothesline and the idea that he is in a movie theater.  
+",boy and kid have different ages
+A middle-aged woman ironing in a messy room., A middle-aged woman ironing a shirt.,1,"It is likely the woman is ironing a shirt as that is a common item to iron.  
+",Does not mention that the item of clothing is a shirt.
+People are sitting outside of a building.,People on the outside of a building.,0,"The premise states that people are located outside a building, which directly aligns with the description of people on the outside of a building.  
+","if people are sitting outside of a building, they must be outside of a building."
+A man in a brown button up shirt is heating a material in a work station.,There is a man quitting his job,2,"Heating a material in a workstation could be part of a final task before leaving a job.  
+","One sentence explains that a man is working at a work station. While the other sentence explains that he is quitting his current job,"
+A child walks outside as leaves fall.,The child is walking its dog,1,"Children often walk their dogs outside, especially when leaves are falling.  
+",not every child is outside.
+A man with a white shirt is sitting at a table in a room with other people and posters along the blue wall.,No one is in the room.,2,"The premise states that a man is sitting at a table with other people, which contradicts the hypothesis that no one is in the room.  
+",There can't be no one if the room if there is a man with other people.
+Friends talking outside of a local bar.,People talking to each other.,1,"Friends talking outside a local bar is a scenario where people are engaged in conversation with each other.  
+",People can talk around each other without speaking to each other.
+A bird eating.,The bird was flying.,2,"Birds often fly while searching for food.  
+",The bird cannot simultaneously be eating and flying
+A team stands on a field while fans sit in the audience and some men in suits get their pictures taken.,A team stand on a field,0,"The hypothesis is a direct component of the premise, as the premise describes a scenario where a team is on a field.  
+",The team standing on a field is being photographed by some men in suits while the fans sit in audience.
+"Orange, brown and white and brown dogs on grass.",Cats of different colors are sitting on the sidewalk.,2,"The premise and hypothesis describe separate and unrelated scenes.  
+","Cats and dogs are different animals, and the sidewalk is not the grass."
+Four guys playing soccer on the pavement.,four guys at soccer practice,1,"Soccer practice is a common setting for four guys to play soccer on the pavement.  
+",Playing does not imply it being at soccer practice.
+A man in a hat is steering a boat while a passenger reads the paper.,A passenger assists a man in steering a boat.,2,"The premise states that a man is steering the boat, implying someone else on board could be assisting him. 
+",A passenger can not assists a man while he reads the paper.
+A mother holding an item while her daughter is on the phone texting.,A womans is holding a flashlight looking for her lost keys while her daughter texts her dad for help.,1,"The premise suggests a mother is occupied with something, and the hypothesis builds upon that by specifying the item as a flashlight and the reason for her daughter's texting as seeking assistance. 
+","The phrase 'an item' does not provide any information about what the item is, nor what the purpose of holding the item is, ergo it cannot be assumed that a person is holding a flashlight with the purpose of looking for her lost keys.  Daughters text anyone for any reason at any time, it cannot be inferred that this daughter texts her dad for help."
+A group of male and female cheerleaders in black and yellow uniforms have thrown a female cheerleader in the air and are waiting to catch her.,A girl is in the air over some cheerleaders.,0,"The premise describes a scenario where a female cheerleader is being lifted into the air by other cheerleaders, which directly matches the description in the hypothesis.  
+",Female is a girl.
+A man is playing shot put with a skirt.,A woman throws a discus.,2,"The premise describes a man engaging in a sport typically associated with men, while the hypothesis describes a woman engaging in a different sport.  
+",It can't be both a man and a shot put and a woman with a discus at once.
+Women burning what looks like incense.,Multiple women surround what appears to be a burning incense stick.,0,"The hypothesis provides a more detailed description of the scene depicted in the premise.  
+",Both subjects are burning
+Three construction workers working on the street.,Three men are building a scaffolding on the street.,1,"Construction workers often build scaffolding as part of their work on the street.  
+",Not  all construction workers working on the street are building a scaffolding.
+A group of people are walking down the sidewalk of a big city.,A lot of people are in the city.,0,"The presence of a group of people walking on a city sidewalk suggests a larger population within the city.  
+",group of people walking implies that a lot of people are in the city.
+A woman is playing tennis.,I women is winning a game.,1,"If a woman is playing tennis, it's possible she is winning a game.  
+",Not all women playing tennis are winning.
+"Two men operate a cement truck in the daytime, wearing white t-shirts and blue jeans, and one of them talking on a mobile phone.",Two men are working outdoors during the daytime.,0,"The premise describes two men working in a cement truck during the day, which aligns with the idea of two men working outdoors.  
+",Operate is a type of working and a cement truck is found outdoors.
+Small brown dog jumping out of the water.,A brown puppy wants out of the water.,1,"A small brown dog jumping out of the water suggests a desire to leave the water, which could be motivated by a puppy's playful nature. 
+",The dog might not be a puppy.
+A guy wearing protective gear is welding a steel beam.,The guy is woodworking.,2,"Welding and woodworking are distinct activities that require different tools and protective gear.  
+",Woodworking and welding are two very different skills.
+A large group of people waiting at a train station.,People are waiting at an airport.,2,"While train stations and airports are both places where people gather for transportation, the premise doesn't specify the type of transportation being awaited.  
+",Train station is not an airport
+A dog is playing catch on the grassy plain,A dog is playing by himself indoors.,2,"The premise describes a dog playing outdoors, while the hypothesis describes a dog playing indoors, indicating they are separate scenarios.  
+",the dog cannot be playing on the grassy plain and indoors simultaneously
+two men playing soccer on a wet field,Two men are playing soccer inside the house.,2,"The premise does not provide information about the location of the soccer game.  
+",The two men cannot be palying soccer on a wet field and inside the house.
+A family walking down the street with luggage.,A family is going on vacation.,1,"People typically travel with luggage when going on vacation.  
+",not every family has luggage.
+"Boy drinking, at backyard table full of bowls of food.",Boy drinking in backyard,1,"The premise specifies the boy is drinking at a backyard table, which is a subset of the broader location of ""backyard"".  
+",You can not infer he is in the backyard.
+Two people kneel on the snow and raise their arms with mountains behind them.,Two people in the snow.,0,"The premise describes two people in the snow, fulfilling the conditions of the hypothesis.  
+",If they are kneeling on the snow suggests they are in the snow
+Toddler standing near a pole with an orange life jacket at his feet.,A grown man wades into some water.,2,"The toddler might be waiting for the grown man to return from swimming.  
+",A toddler is not a man.
+A woman is singing into a microphone while sitting and playing an instrument.,A woman is singing a song,0,"Singing into a microphone while playing an instrument is a common way to perform a song.  
+","A woman is singing into a microphone, and, by definition, one can only be singing a song."
+"Person in a black hat, jacket, pants and shoes sitting on concrete curb against a brick background.",A man is sitting on the curb.,0,"The description of a person wearing clothing and sitting on a curb strongly suggests a man is in that position.  
+",A person sitting is a man sitting on the curb.
+The lake looks very shallow.,The water is very shallow.,0,"If the lake appears shallow, it is likely that the actual depth of the water is also shallow.  
+",Lake implies water.
+Muslim walking in procession.,Muslim running down the sidewalk pell mell,2,"A procession could involve a sudden change in pace or direction, leading someone to run down the sidewalk.  
+",Walking and running are two different movement paces.  A procession is not pell mell.
+A man wearing a reflective vest and a hard hat holds a flag in the road,A cat chases a mouse.,2,"There is no logical connection between a man directing traffic and a cat chasing a mouse.  
+",It's either a man or a cat.
+A dog is licking its lips while sitting beside two feeding tray.,the dog is sleeping soundly.,2,"A dog licking its lips and sitting beside feeding trays is more likely to be anticipating food than sleeping soundly.  
+",If a dog is licking its lips it is not soundly sleeping.
+This player with the blue helmet was at bat and just finished swinging at the ball during a team baseball game.,The player has a black helmet,2,"The premise states the player has a blue helmet, which directly contradicts the hypothesis that the player has a black helmet.  
+",The player cannot be with a blue helmet and black helmet simultaneously.
+An artist in a straw hat paints a beautiful cityscape out on a city street.,A person outside is painting.,0,"The premise states that an artist is painting outdoors, which directly supports the hypothesis that a person outside is painting.  
+","A man painting a cityscape, is painting."
+A girl wearing a colorful hat sits on a woven mat.,"A woman is sitting on a mat, mediating.",1,"While the premise describes a girl in a colorful hat, it doesn't rule out the possibility that she is also a woman engaged in meditation.  
+",Not all people that sit on mats use them for mediating.
+A man dressed for cooler weather blows leaves.,A man for cooler weather.,0,"The premise states the man's attire suggests cooler weather, which is the same information as the hypothesis.  
+",man dressed for cooler weather is same as man for cooler weather
+Local villagers going home after a day of harvesting crops.,Villagers returning from harvest.,0,"The hypothesis is a concise rephrasing of the premise, focusing on the action of returning and omitting the specific time of day.  
+",Villagers going home after a day of harvesting crops suggests that they are returning from harvest.
+A boy wearing a knit cap is laying the grass.,the boy is running and playing,2,"Laying grass could be part of a game or activity where a boy is running and playing.  
+",One cannot be laying down and running simultaneously.
+A young man clad in a jersey and shorts watches some Ultimate Frisbee players in action.,The young man is naked.,2,"The premise states the young man is wearing clothing, making the hypothesis that he is naked incorrect.  
+",One cannot be clad in something and be naked at the same time.
+An older male is playing a guitar on a wheelchair in a city street.,The man entertains with his guitar on the streets downtown.,0,"Playing a guitar on a wheelchair in a city street suggests the man is performing for an audience in a public space.  
+",The first sentence implies a disability and possibly playing guitar independently by saying on a wheelchair while the second sentence suggests more people there as he is entertaining and implies he moves around entertaining by saying plural of streets.
+A young man in a park setting has just made a slam dunk on a basketball hoop.,A black youth skies to dunk on the neighborhood court.,1,"Both scenarios describe a young man making a slam dunk, suggesting a shared action.  
+","Just because a young man makes a slam dunk on a basketball hoop in a park, it doesn't necessarily mean that he is black, or that he is considered a youth, or that he is on the neighborhood court."
+A man holds a sleeping baby with a yellow blanket.,a baby is sleeping in a man's arms,0,"The premise states that a man is holding a sleeping baby covered in a yellow blanket, which directly describes a baby sleeping in a man's arms.  
+",A man holds a baby in a yellow blanket implies he is holding it in is arms.
+"People, some dressed in costumes, and dogs on a snowy mountain.",Some people and dogs are looking out over the mountain at a lake below.,1,"People and dogs on a snowy mountain might be positioned to view a lake situated at a lower elevation.  
+","""People"" could mean a lot or some and if they are on a mountain, doesn't mean that they are looking over it at a lake."
+A crowd of people has gathered next to a field of colorful wildflowers.,A crowd of people are watching flowers bloom,1,"People gathering near a field of wildflowers suggests they are likely there to observe the flowers.  
+",Not all flowers bloom.
+"Older men are sitting in chairs, reading newspapers.",The men are running on a treadmill,2,"The premise describes a sedentary activity, while the hypothesis describes a physically active one, making a direct connection unlikely.  
+",Men are sitting vs. running.
+A bride tossing her bouquet to a group of women.,women at a funeral,2,"It is highly unlikely that a bride would toss her bouquet at a funeral.  
+",A bride isn't at a funeral.
+Four young children play basketball while an older gentleman watches from a distance.,four children are playing basketball,0,"The premise states that four young children are playing basketball, which directly supports the hypothesis.  
+",play basketball show that they are playing basketball
+A gentleman selling art on the street with a horse drawn carriage behind him.,A man is selling art on the street.,0,"The premise describes a specific scenario of a gentleman selling art on the street, which inherently involves a man selling art.  
+",Gentleman is a synonym of man.
+A girl wearing a printed outfit with brown short hair smiling and holding hands with someone while standing next to a boy wearing a black t-shirt and dark sunglasses.,The girl wearing the printed outfir with brown short hair smiling and holding hands with someoe while standing next to a boy wearing a black t-shirt,0,"The hypothesis is a shortened version of the premise, omitting only the detail about the boy wearing dark sunglasses.  
+",the two sentences are the same and this boy puts sun glasses
+A gentleman is sitting at a table looking at a box from MakerBot Industries.,There is a box on the table.,0,"The premise states that a gentleman is looking at a box, which implies the box's presence on the table.  
+",THERE IS A BOX.
+"Two women in black and white sit on a white, leather seat and talk over beer glasses.",The beer is Heineken,1,"There is no information in the premise about the brand of beer.  
+",THE WOMEN MAY NOT BE DRINKING HEINEKEN.
+"A girl wearing a black t-shirt is holding a large, silver ball and smiling while two other people stand in the background.",There are at least two people currently standing around a young female.,0,"The premise states there are two other people standing in the background, along with the girl, fulfilling the condition of at least two people standing around her.  
+",A girl won a first prize in foot ball tournament so she got a silver ball and she took a photograph with other female.
+A young Asian man with a backpack snaps a photo of artwork.,A man takes a picture in a museum.,1,"The premise describes a specific instance of a man taking a picture, which aligns with the broader hypothesis.  
+",Not all artwork is in a museum.
+A man in a tank top looks at a woman near a water sculpture.,A man is going to ask out a woman.,1,"Looking at someone near a water sculpture could be a way to initiate a conversation.  
+","the man is not necessarily going to ask out the woman, even though he is looking at her."
+Butchered meat hangs from an a-frame rack in front of a doorway.,meat hangs in doorway,0,"The a-frame rack is positioned in front of the doorway, suggesting the meat is hanging there.  
+",Butchered meat is a kind of meat.
+A large lady and an elderly lady are waiting at a bus stop.,Two friends are at a cafe.,2,"There is no inherent connection between the people at the bus stop and those who might be friends at a cafe.  
+",They cannot be at a cafe and at a bus stop at the same time.
+One boy in a yellow shirt rides a donkey hitched to a cart carrying two boys in yellow along a road.,A child directs a burro that is hitched to a cart carrying other children.,0,"The premise describes a specific scenario with a boy, a donkey, and a cart carrying other boys, which aligns with the general description of a child directing a burro pulling a cart with other children in the hypothesis.  
+",A burro is a donkey.
+A woman with reddish hair laying on a bed.,A woman is laying on a bed.,0,"The hypothesis is a broader statement that encompasses the specific details provided in the premise.  
+",Reddish hair can be a women.
+People walk through a cobblestone intersection near a gabled building with bright green and white trim.,The people turn off the street lights.,2,"There is no logical connection between the description of a cobblestone intersection and the action of turning off streetlights.  
+",Walking is not turn off.
+A guy wearing blue jeans and long-sleeve shirt is walking down the sidewalk.,A guy is walking down the sidewalk.,0,"The hypothesis describes a general action, while the premise provides specific details about a person performing that action.  
+",A person walking down is on the sidewalk.
+A brown and white dog is jumping high and catching a blue ball.,The dogs are both black.,2,"The premise describes a specific dog's appearance and actions, while the hypothesis makes a general statement about the color of all dogs.  
+",White and black are different.
+a brown dog running along the dirt shore of a stream,A brown dog is chasing a ball along the shore of a stream.,1,"A dog running could be chasing something, like a ball.  
+",a brown dog running along the dirt shore of a stream does not imply that it is chasing a ball along the shore of a stream.
+a girl peeks through the green leaves.,The girl is sleeping in the jungle.,2,"If a girl is peeking through leaves, it's likely she is in a place with trees, such as a jungle, and might be resting there. 
+",The girl cannot peek through green and be sleeping at the same time.
+"A blond woman, wearing a white shirt, walks past a sign advertising food and drinks.",A woman walks.,0,"The premise describes a woman walking, fulfilling the condition of the hypothesis.  
+","The woman walks past an advertisement, so it is known that she walks."
+"Many people of Indian descent wearing bright, colorful clothing& walking up steep flights of stairs.",There is a group of Indians going up some stairs.,0,"The premise describes a group of people who share a characteristic (Indian descent) and are engaged in a specific action (walking up stairs), which aligns with the description of a group of Indians going up stairs in the hypothesis.  
+",Group of Indians is a restatement of many people of Indian descent.
+People stand and sit on a bench in front of a building with drawings on it.,People stand and sit on a bench in front of a building with graffiti,1,"Drawings on a building can be a form of graffiti.  
+",Just because a building has drawing on it does not mean the drawing are graffiti.
+An old lady sitting next to a christmas tree has a lampshade on her head and a book on her lap.,the woman is taking  nap,1,"The image suggests a relaxed and quiet setting, which could be conducive to taking a nap.  
+",Just because the old lady has a lampshade on her head and a book on her lap it cannot be assumed she is taking a nap.
+girl tanning in the beach next to the blue water surrounded bye birds,A girl is shopping in the mall.,2,"There is no logical connection between a girl tanning on the beach and her potentially shopping at a mall.  
+",Girl cannot be tanning and shopping simultaneously.
+A black man with cargo shorts and a striped orange shirt listening to music and dancing.,A man is lying down on the dance floor.,2,"Someone dancing enthusiastically might lie down on the dance floor.  
+",Dancing is not lying down.
+"Two native americans, one male, one female, wearing very colorful native garb are putting on a demonstration of some kind in front of people.",The performers work for tips.,1,"People watching a demonstration in public spaces often contribute money to the performers for their entertainment.  
+",not every native is part of the performers
+It is a beautiful day at the horse track.,man on a plane,2,"A beautiful day at the horse track might inspire someone to take a trip, which could involve flying on a plane.  
+",The location is totally contradictory being a man on a plane cannot comment of a beautiful day at the horse track.
+A worker rests his foot on the back of a trailer.,A woker rests his foot on his trailer.,1,"The premise does not specify if the worker owns the trailer.  
+",A worker who rests on the back of a trailer doesn't necessarily imply his trailer.
+Brad Paisley is playing his guitar and singing.,Brad is sitting on the front porch with his guitar.,1,"Someone playing guitar and singing might be doing so while sitting on a front porch.  
+",There are many venues other than the front porch at which Brad Paisley can perform.
+Many men on the back of a pick up truck going down a road.,Some people to catch the Wheel Loader,0,"The people in the pickup truck might be headed to a construction site where a wheel loader is being used.  
+",Many means people.
+Two brown dogs are running on the sand.,Huge animals running,1,"The premise describes dogs, which can be considered huge animals, running on the sand.  
+",Just because two brown dogs are running on the sand does not mean they are huge.
+This is people doing laundry.,The people are throwing around detergent in the laundromat.,2,"People doing laundry often use detergent in a laundromat.  
+",The people throwing detergent contradicts people doing laundry in first sentence.
+A woman wearing glasses on her head stands in an art gallery.,A woman stands inside,0,"The premise states that a woman is present in an art gallery, which is a type of enclosed space where a person could stand.  
+",An art gallery in located inside.
+A large dog looks up as he swims.,The dog is swimming,0,"Looking up while swimming is an action a dog would perform if it were swimming.  
+",Large dog is a type of dog.
+A man and a woman standing with a group of spectators.,People are watching a race.,1,"Spectators often gather to watch races.  
+",A group of spectators does not mean that people are at a race.
+A man wearing racing gear rides a bicycle on a road past fields of grapevines.,A man is riding a red bike in a field.,1,"While the premise describes a man on a bicycle near grapevines, it doesn't specify the color of the bike or confirm he is definitively in a field.  
+",Does not say that the bike is red.
+A woman wearing a money themed costume stands on the street.,The woman is celebrating Mardi Gras,1,"Money-themed costumes are commonly associated with Mardi Gras celebrations.  
+",Money themed costume does not necessarily mean celebrating Mardi Gras.
+A young boy and 2 women look out a window to construction workers.,A family watching their house being worked on.,1,"The presence of a young boy and two women suggests a familial relationship, making it plausible they are observing construction work on their home.  
+",The construction workers being outside don't imply that they worked on that specific house.
+"The dog is wearing a red baseball cap, and has its mouth wide open.","The dog is wearing a red baseball cap, and has its big mouth wide open.",1,"The hypothesis simply rephrases the premise by using the word ""big"" to describe the dog's mouth.  
+",Not all mouths are big.
+A man and woman are at a catered dinner getting food.,A girl is eating McDonald's.,2,"There is no logical connection between a man and woman getting food at a catered dinner and a girl eating McDonald's.  
+",a people would either be in catered dinner or McDonald's.
+The little girl doing the craft project has black hair with pigtails and is wearing a cute pink and gray striped long-sleeve top.,A little girl is making a bracelet with rubber bands.,1,"The premise describes a little girl engaged in a craft activity, which aligns with the hypothesis of her making a bracelet.  
+",just because the girl is doing the craft project doesn't mean she is making a bracelet with rubber bands.
+A bulldozer is working on a building.,There is a yellow bulldozer.,1,"While bulldozers can come in various colors, the statement doesn't specify the bulldozer's color.  
+",Not all bulldozers are yellow.
+A woman wearing hat is reading her book.,A man is reading 50 Shades of Grey.,2,"There is no logical connection between a woman reading a book and a man reading a specific book.  
+",A woman is not a man.
+A man with a hat is turned around looking at cards.,A man is looking at cards.,0,"The premise states that a man with a hat is looking at cards, which implies that a man is looking at cards.  
+",The man is looking at the cards.
+Kids riding on their bicycles near a mound of dirt with a hovel from a backhoe in front of the mound.,Kids riding in a car in a field.,2,"The premise describes a scenario where children are engaged in outdoor play, suggesting a possibility of them being transported to a field in a car.  
+",Kids can not be both riding in a car and riding on their bicycles.
+A woman waiting at a train stop next to a pay phone.,A woman is waiting at a bus stop.,2,"While the premise describes a woman waiting at a train stop, it doesn't rule out the possibility that she could also be waiting at a bus stop.  
+",A train stop is not a bus stop.
+A girl in a polka dotted blue jean dress walks barefoot on a balance beam.,The girl is balancing.,0,"Walking barefoot on a balance beam requires maintaining balance.  
+",The girl is practicing balancing on a balance beam.
+This man in the kayak is think this kayak is way too small for him.,A man is in a blue kayak.,1,"The premise describes a man in a kayak, and the hypothesis states that the kayak is blue, but there is no information about the kayak's color in the premise.  
+",Not all kayaks are colored blue.
+A dog with no tail runs in the dirt.,The dog with the missing tail is running.,0,"The premise states the dog is running in the dirt, and the hypothesis focuses on the action of the dog running.  
+",The dog has no tail.
+Long necked dog jumps on,The dog playing with the kid.,1,"A long-necked dog jumping on someone could be a playful interaction with a child.  
+",The first sentence didn't say the dog was playing.
+Man stands outside a storefront.,a man stands outside near a building,0,"A storefront is a type of building.  
+",Man stands outside a store front implies that he is standing in front of a store. Store is a building. So it implies he is near a building.
+A person in reflective gear is riding a white horse on a cobblestone city street.,A person is wearing reflective clothing.,0,"The premise states that a person is riding a horse while wearing reflective gear, which implies they are wearing reflective clothing.  
+",Sentence one says the person is in reflective gear Sentence two says the person is wearing reflective clothing
+A woman with a young child standing in gravel and pointing at the photographer.,The photographer is holding a camera.,1,"Someone taking a photograph would typically use a camera to capture the image.  
+",You can not infer there is a photographer.
+A man and a girl are painting crafts at a table while a woman observes.,The man and girl jump into the lake while the woman sleeps on the shore.,2,"There is no logical connection between the premise and the hypothesis as the actions described in the premise do not necessitate or suggest the actions described in the hypothesis.  
+",The people can't be painting crafts while  they jump into the lake.
+A young woman with a shave head in a brown skirt and sandals walking past a stone building.,A young woman learning to become a monk walks slowly past an ancient stone building.,1,"The premise describes a young woman in attire that could be associated with a monastic lifestyle, walking past a structure that might be an ancient monastery.  
+",Not all women with a shaved head are learning to become a monk and not all stone buildings are ancient.
+A girl sits in bed reading a book.,A girl reads a book for homework while sitting on her bed.,1,"The hypothesis assumes the girl is reading for a specific academic purpose, which is not stated in the premise.  
+",All reading are not related to homework
+Two children and a black dog are playing out in the snow.,The people are singing in a choir.,2,"There is no logical connection between children playing in the snow and people singing in a choir.  
+",Singing is not playing.
+Labors are cleaning the car.,Some children are playing baseball.,2,"The actions of the laborers cleaning the car have no bearing on whether or not children are playing baseball.  
+","They can either be playing baseball or cleaning, not both."
+A man fishing while standing on a small boat holding a net,A man is catching dinner for his family for that day.,1,"Fishing with a net from a boat is a common method for catching fish to be eaten.  
+",A man is catching fidh for dinner
+Two cheerleaders are doing leaps on a green field,Two girls are playing catch in a green field.,2,"While cheerleaders often perform leaps, girls can engage in various activities, including playing catch, in a green field.  
+",Doing leaps and playing catch are two different actions that cannot take place at the same time.
+A man is lying the grass with long hair and beard.,A bearded man is outside.,0,"The premise states that a man with a beard is present in a location outdoors, which aligns with the hypothesis.  
+",A man outside can also be described as a bearded man.
+"Several people sitting, relaxing in the snow.",Some people are laying on the beach.,2,"The premise describes a scenario unrelated to a beach setting.  
+",The snow is not beach.
+"older man writing in a book, on a granite table.",A man is sitting at a table writing.,0,"The premise specifies a man writing at a table, fulfilling the conditions of the hypothesis.  
+",Man sitting is writing in a book.
+A party or reunion at someones house and the people are talking.,The party has friends at it.,1,"People attending a party or reunion at someone's house are likely to be friends of the host.  
+",You do not kow if the people at the party are friends.
+A group of people are listening to a man in a gray hat speak.,A man in a gray hat gives a political speech.,1,"Political speeches are often delivered by individuals to groups of listeners.  
+",Just because a group of people are listening to a man in a gray hat speak does not mean that he gives a political speech.
+A man is seated in a chair holding a bow for his instrument in the middle of a brown floor.,Man jogging outdoors on a very sunny day.,2,"There is no logical connection between a man playing music indoors and a man jogging outdoors.  
+",Seated and jogging are different.
+a boy wears a red coat.,A boy wears a jacket without a coat.,2,"The premise states a specific type of outerwear, while the hypothesis describes a different type of outerwear, suggesting they are not necessarily related.  
+",There is either a coat or a jacket.
+A boy in a blue shirt and brown shorts and two women wearing colorful outfits walk down a run-down street with livestock in the background.,A boy and two women go for a walk in the country side.,0,"The presence of livestock in the background suggests a rural setting, supporting the hypothesis of a walk in the countryside.  
+",The country side is outdoors away from the city and livestock usually are in the countryside.
+There are 4 women wearing pink Energizer bunny ears.,Women are wearing bunny ears to a Halloween party.,1,"The presence of women in pink bunny ears suggests a festive occasion where costumes are common, like a Halloween party.  
+","People can wear bunny ears for events other than a Halloween party. They could be costumers attending a show, models hired to promote a brand, or simply people who like to wear ears."
+Smiling woman holding a piece of cloth.,The woman was visually upset.,2,"Smiling is generally associated with positive emotions, making it unlikely that the woman was visually upset.  
+",One who is visually upset is not smiling simultaneously.
+a dog bites a stick.,A cat jumps in a pool.,2,"The actions of a dog and a cat are independent of each other.  
+",There is either a cat or a dog.
+Snowboarder in a striped shirt going off a ramp in front of a crowd.,the snowboarder is wearing a jacket.,2,"It is common for snowboarders to wear jackets for warmth and protection while riding.  
+",Wearing a striped shirt not a jacket
+"A man, seen from the back, with his head turned to the side wearing a backpack",Going on a hike.,1,"People often wear backpacks and turn their heads while hiking.  
+","A man, seen from the back, with his head turned to the side wearing a backpack doesn't imply that he is going on a hike."
+A homeless man is sitting in a building.,A man is standing out on the sidewalk,2,"There is no inherent connection between a homeless man sitting inside a building and a man standing outside on the sidewalk.  
+","A man cannot be sitting while also standing. If a man is standing out on the sidewalk, he cannot be in a building."
+Two men writing in the sand on a rocky beach.,There are two men on a rocky beach writing notes in the sand.,0,"The hypothesis simply clarifies the actions described in the premise. 
+","If they are writing, it is implied they are writing notes."
+A bartender wearing a hat is pouring a drink.,a bartender is working,1,"Pouring a drink is a task typically performed by a bartender while they are working.  
+",Not all bartenders are currently working.
+Two men sit on a trucks tailgate as it is being towed.,The men sit in the back of the truck as it's towed,0,"The tailgate of a truck is at the rear, and the back of a truck is also at the rear.  
+",The two men that sit on a truck tailgate definitely sits in the back of the truck.
+A person is standing by some stairs in colorful clothes and goggles.,A person is lighting himself on fire.,2,"Someone wearing colorful clothes and goggles might be preparing for a dangerous stunt involving fire.  
+","stairs means it is inside some construction or building, usually there should not be fire okay in a construction or building."
+A person on a black coat walking next to a building.,A person on a coat walking next to a building.,0,"The hypothesis simply removes the specific color information from the premise.  
+",The coat is black.
+A red race car is driving on asphalt.,Race car driving on pavement.,0,"Asphalt is a type of pavement.  
+",A red race car is driving on asphalt on pavement.
+Three people are looking at sculptures made of rocks located on a body of water.,Three people looking at the sky.,2,"It is possible that the three people are looking at the sky while also observing the sculptures.  
+",you cannot be looking at sculptures and at the sky at the same time
+Man walking through large puddle of water.,A man relives his boyhood and jumps into a puddle.,1,"Seeing a large puddle might trigger a memory of childhood joy and lead someone to spontaneously jump in.  
+",Just because a man walks through a puddle does not mean he relives his boyhood or that he jumps into the puddle.
+Curly-haired jungle man is climbing up a vine.,A woman in climbing up a vine.,2,"The premise provides information about a person climbing a vine, but it doesn't specify the person's gender.  
+",The person can either be a man or a woman.
+"People are gathered at a platform on which stands a table of trophies with graduated boxes in front of the platform labeled 1, 2 and 3.",People are at a steeplechase race.,2,"Trophies and numbered boxes often signify a competition with tiered placements, like those found in a steeplechase race.  
+",People who are gathered at a platform are not at a steeplechase race.
+Two professional businessmen having a conversation.,Neither man speaks the same language as the other.,2,"If two businessmen are having a conversation, it is possible they are communicating in different languages.  
+",Can't have conversation if neither speaks the same language.
+A musical artist is performing on stage.,There is a musician playing on stage.,0,"A musical artist, by definition, creates and performs music, which implies they are a musician.  
+","A musical artist is a musician, and performing is playing."
+A brown dog holding a buoy in its mouth in the water,A spotted brown dog holding an orange buoy in the ocean,1,"The hypothesis describes a dog with a specific color pattern and holding a buoy of a particular color in a larger body of water. 
+",Not all brown dogs are spotted. Not all buoys are orange. Just because the dog is in water doesn't mean it's the ocean.
+"An older white-haired woman in a blue jacket, brown boots, with a ring on her finger looks at samples of a drink next to a sign in a different language.",the woman is nude by the beach,2,"There is no logical connection between the description of a woman examining drinks and her potential state of undress at a beach.  
+",She is not nude because she is wearing a jacket and boots.
+A person wearing a blue suit with large peacock feathers is holding a microphone while standing on a stage with others who are playing musical instruments as a fog envelopes them.,One musical instrument is a guitar.,1,"The premise describes a stage setting with musicians, making it plausible that one of the instruments they are playing is a guitar.  
+",The fact that playing musical instruments doesn't imply that one of the musical instruments is a guitar.
+A young boy sits next to a wind sculpture.,A boy sits next to a statue of a dog.,2,"Wind sculptures can take on many forms, including the shape of animals like dogs.  
+",A wind sculpture is not the same thing as a dog statue.
+Two small children are talking in a field in front of a yellow caution tape.,The small children play tag in the field.,2,"Children playing tag often run and move freely in open spaces.  
+",Talking is not the same as playing tag.
+Male food worker grills meat on a stick.,The woman is grilling meat.,2,"The hypothesis is not logically connected to the premise as it introduces a new subject (a woman) not mentioned in the premise.  
+","Male is not female, female is a woman."
+A black dog jumps to catch a ball in a yard.,The dog is taking a nap with a cat.,2,"There is no logical connection between a dog catching a ball and the dog napping with a cat.  
+",It would be impossible for the dog to be jumping and taking a nap simultaneously.
+"Four kids all hunched over together in a grassy field petting two turtles, one girl has colored face paint on her face.",A group of children are playing video games in the living room.,2,"There is no logical connection between children playing with turtles outside and children playing video games inside.  
+",Grassy fields are not in living rooms.
+A man has his hands up while standing next to another man with a drink.,The man's hands are in his pockets.,2,"The premise does not provide information about the position of the man's hands other than that they are raised.  
+",hands up is contradictory to hands in pockets
+A man with a guitar is speaking into a microphone.,The man is using his voice.,0,"Speaking into a microphone is a method of using one's voice to transmit sound.  
+",a man speaking into a microphone means the same as man is using his voice
+The people are standing around at the auto show.,The people intend to purchase a car today.,1,"Attending an auto show is often a step people take before making a car purchase.  
+",The people do not necessarily intend to purchase a car.
+"A young boy is walking on what seems to be a chilly day, though the path he's on seems to disappear into a sea of green grass.",The boy wears a jacket.,1,"Since the day is chilly, it is likely the boy is wearing a jacket for warmth.  
+",chilly doesn't always mean jacket.
+A woman puts the firewood in order.,The woman sits by the warm fire.,2,"It is reasonable to assume she would sit by the fire after taking the time to arrange the firewood.  
+",One can be either putting the firewood in order or be sitting by the fire.
+Man gives an interview in a nearly empty theater.,a man speaks in a nearly empty theater.,0,"The hypothesis is a general statement that could apply to the situation described in the premise.  
+",A man giving a interview in a empty theater is the same as speaking in a empty theater.
+An individual in blue pants is standing on a step ladder while two others look in the same direction as the man on the ladder.,A man is sitting.,2,"The premise does not provide any information about someone sitting.  
+",standing and sitting are different actions
+A boy on a swing wearing a green shirt is making hand gestures.,A boy is jumping from the swing.,2,"Someone making hand gestures while on a swing might be preparing to jump off.  
+",The boy must choose to make hand gestures or jump.
+A white man is seen in a swimming pool floating above many floating devises.,The man floats in the pool with his beer.,1,"The presence of floating devices in the pool suggests the man might be using one to keep his beer afloat.  
+",Not all man floats in the pool with his beer.
+"Women in headwraps are gathered together, speaking emotionally.",Women gathering together for a meeting.,1,"Women gathering together to speak emotionally could be a type of meeting.  
+",Just because gathered together does not mean for a meeting.
+Sunbathers frolic on the beach under a bright sun.,sunbathers lathered themselves with sunscreen,1,"To protect their skin from the bright sun, sunbathers would likely apply sunscreen.  
+",Just because people are on the beach doesn't mean they are using sunscreen.
+A man grilling meats and mushrooms on a grill.,The man is fishing,2,"Grilling meats and mushrooms could be a pre-fishing activity, like preparing a meal for after a day on the water.  
+",Grilling versus fishing.
+A group of bikers head out the gates in a London 2012 bike race.,The bikers are talented.,1,"Competing in a high-level event like the London 2012 bike race suggests a significant level of skill and talent.  
+",Just because the bikers are in a race does not mean that they are talented.
+A man in a green shirt shops in an open market.,A man is wearing a red shirt shopping.,2,"The premise provides information about a man's clothing and shopping location, but it doesn't offer any details about the color of his shirt or whether other men are shopping there.  
+",The shirt is either red or green.
+Marching band standing in a public area.,A band is standing outside,0,"A marching band, by definition, is a group of musicians who perform while marching, and standing in a public area is a common location for such performances.  
+","Marching band is a type of band, and public area implies outside."
+A group of girls is sitting in the dance studio.,Several girls are in a room.,0,"The premise specifies a group of girls in a dance studio, which is a type of room.  
+",The girls are in a room because they are in a dance studio.
+A man with tattoos is lounging on a couch holding a pencil.,the man is standing near a tree,2,"There is no logical connection between a man with tattoos lounging on a couch holding a pencil and his proximity to a tree.  
+","If one is lounging, they are not standing."
+Young boy in blue jacket learns to ride a skateboard.,Nobody has a jacket.,2,"The premise describes a specific boy wearing a blue jacket, which contradicts the hypothesis that nobody has a jacket.  
+","If the young boy is in a blue jacket, it is impossible that nobody has a jacket."
+"An elderly women is sitting and leaning against a wall, holding a photo and a plastic glass.",An old lady begs for money.,1,"The photo and plastic glass could be props used to elicit sympathy and encourage donations.  
+",Does not mention the glass is for money
+"A group of black boys in a classroom setting wearing white shirts, listening to a speech about UNICEF.",The boys are at the racetrack and placing bets.,2,"There is no logical connection between a group of boys listening to a speech about UNICEF and them being at a racetrack placing bets. 
+
+
+",A racetrack is not a classroom.
+A man sits on the floor as he is creating a colorful picture next to him.,A man sits on the floor and colors his coloring book,1,"The premise describes a man creating a colorful picture, which could be a coloring book.  
+",A colorful picture isn't only in a coloring book.
+A pitcher from a Houston baseball team is mid-throw.,In houston a professional pitcher warms up his arm.,1,"The premise describes a pitcher in action, which suggests they are likely warming up as part of their preparation for a game.  
+",You can not infer he is a professional.
+A fluffy black and gray dog in the grass.,The dog is outside.,0,"The presence of a dog in the grass suggests a location outdoors.  
+",The dog is outside refers to a fluffy black and gray dog
+A girl runs down a beach.,The girl is on the beach.,0,"Running down a beach implies the girl's location is on the beach.  
+",a girl will be on the beach while she runs down it.
+An Asian taking a call in his office cubicle.,The Asian man is talking on the phone while sitting at his desk.,1,"Taking a call implies the person is likely using a phone, and a cubicle office typically includes a desk.  
+",You can not assume he is sitting at his desk when he takes a call in his office cubicle.
+A mountaineer sits in the snow in front of a yellow tent under clear blue sky.,a guy has a blue tent.,2,"The premise does not provide information about the color of the tent the guy has.  
+",The tent is either yellow or blue.
+The man is waterskiing.,A man is being pulled by a jet ski.,1,"Waterskiing typically requires being pulled by a motorboat or jet ski.  
+",A man might not be the man who is waterskiing since a man is being pulled by a jet ski.
+"One man in a uniform standing inside a school bus with the backdoor open, while another man sits on top of the boss wearing a similar uniform.",A uniformed man is standing inside a school bus.,0,"The hypothesis is a direct statement found within the detailed description provided in the premise.  
+",The uniformed main standing inside a school bus with backdoor open.
+Standing in a kitchen a young woman wearing a black peasant blouse and holding a plastic fork between her teeth shows the camera a ladle in her right hand and a bowl in her left hand.,A woman makes a silly face when her husband takes a picture of her while she makes dinner.,1,"The woman's actions of holding a fork in her teeth and posing for the camera suggest she is making a silly face.  
+","The woman does not necessarily make a silly face, there isn't necessarily any husband anywhere, the husband is not necessarily taking a picture of her, and she is not necessarily making dinner."
+A man in a black hat walks down the street.,The man is sleeping.,2,"There is no logical connection between a man wearing a black hat and whether or not he is sleeping.  
+",One cannot be sleeping while he walks.
+"An adult in brightly colored clothing and hat, is weaving or beading while sitting on brightly colored rugs.",A young child playing on a bright rug.,2,"The presence of brightly colored rugs in the premise suggests a playful environment that could be suitable for a young child.  
+",Child and adult are of different age. Playing is a different activity than weaving or beading.
+Man in bright yellow vest displays bicycle safety information on street.,The men are crossing guards.,1,"Crossing guards often wear bright yellow vests and provide safety information to pedestrians and cyclists.  
+",man displaying safety information does not imply men are crossing guards.
+"A man with a sign in front of him that reads ""Deleon"" sits at a microphone.",A man is talking into a microphone.,1,"If a man is sitting at a microphone with a sign that reads ""Deleon,"" it is likely he is using the microphone to speak.  
+",reading something at a microphone doesn't always mean talking into a microphone.
+A man in a colorful yellow and green garment stretches out his right arm while standing near a plate of glass embedded into the ground.,The man is wearing all black.,2,"The premise states the man is wearing a colorful yellow and green garment, directly contradicting the hypothesis that he is wearing all black.  
+",Black is not colorful
+Two woman point at a mirror that is curved like a ball.,Two women wearing dresses point at a spherical mirror.,1,"The hypothesis provides more specific details about the women and the mirror, which are consistent with the general description in the premise.  
+",Two woman pointing at a mirror doesn't mean they are wearing dresses.
+The shadows of trees are projected onto the field by the sun.,The moon light is shining down.,2,"If shadows are being cast, it implies a light source, and while the sun is a common light source, the moon can also cast shadows.  
+",There can be no moonlight when the sun is shining.
+"Three women talking and laughing, while 2 hold glasses of wine.",A group enjoying a drink.,0,"The presence of women talking and laughing, coupled with two of them holding wine glasses, suggests a social gathering where drinks are being enjoyed.  
+","Three women form of a group, and talking and laughing with glasses or wine shows they are enjoying drink"
+A climber scales a cliff as others watch.,The climber is fast asleep in his own bed.,2,"It is highly unlikely that someone actively scaling a cliff would simultaneously be asleep in their bed.  
+",The climber cannot be asleep while he scales a cliff as he would need to be awake to do that.
+A black poodle with a rope toy in its mouth.,A pet with a dog toy in its mouth.,0,"A black poodle is a type of pet, and it is holding a dog toy.  
+",black poodle is a pet rope toy is dog toy
+man wearing gray jacket watching family at worship.,Man is watching football on a Sunday.,2,"It is common for people to watch football on Sundays, and families often attend worship services on Sundays.  
+",either the man is at worship or watching football
+A blond-haired man with glasses wears a makeshift cape while pointing up.,The man is naked underwater.,2,"The description of a makeshift cape and pointing upwards suggests a theatrical or playful scenario, potentially involving a lack of clothing.  
+",Wears a makeshift cape is impossible if the man is naked.
+There is a blond female office and a male brown headed officer standing in front of a pole talking.,The two officers are putting a suspect in their squad car.,2,"People standing in front of a pole while talking could be discussing the arrest and placement of a suspect into a squad car.  
+",Talking and putting a suspect are different.
+An old lady wearing a hat and smiling.,The woman is wearing a sombrero and smiling.,1,"While the premise describes an old lady wearing a hat and smiling, it doesn't specify the type of hat she is wearing.  
+",It cannot be inferred that the hat is a sombrero.
+Children swinging on a blue swing in the park.,Children on a school field trip,1,"School field trips often take place in parks and include activities like swinging.  
+",A school field trip is not the only time when children can go swinging on a swing in a park.
+A small dog and a large dog with a rope in its mouth.,Two dogs are playing outside.,1,"The presence of a rope suggests the dogs are interacting in a playful manner.  
+",They are not shown to be playing.
+A young girl wearing a white jumper drinks from a straw while other girls congregate behind her.,A young girl drinks cement.,2,"The premise does not provide information about the substance the girl is drinking.  
+",The girl can't drink cement from a straw.  One can't drink cement.
+A brown dog is jumping on top of a smaller white dog and there is a colorful ball on the floor.,a dog jumps on another dog by a ball,0,"The premise describes a specific scenario of a brown dog jumping on a white dog while a ball is present, which aligns with the general statement in the hypothesis about a dog jumping on another dog near a ball.  
+",THEY ARE USING THE BALL.
+A group of blond young women sit outside a Star Bucks.,A group of women sit outside.,0,"The premise specifies a group of women sitting outside, which is a subset of the broader description in the hypothesis.  
+","""young women sit outside"" is inferred as ""women sit outside"""
+A bald man with a beard plays the accordion in front of green doors,A man with a beard chops down a tree.,2,"There is no logical connection between a man playing an accordion and a man chopping down a tree.  
+","If he chops down a tree, he could not also play the accordion at the same time because accordions are held in front of the torso of the musician, which would get in the way of wielding an axe."
+A little Asian girl holds two trophies.,Asian girl won competition,1,"Holding trophies is a common outcome for individuals who have won competitions.  
+",Not all little girls are Asian.
+A group of men cleaning a floor.,a group of men are playing guitars,2,"There is no logical connection between men cleaning a floor and men playing guitars.  
+",The men cannot simultaneously be cleaning and playing guitars
+Two people are standing in a room one of whom is smoking the shots are of the back of the foreground person.,Two people are in a room sitting.,2,"While the premise describes people standing and smoking, it doesn't rule out the possibility that they could be sitting at some point.  
+",Two people cannot be standing and sitting at the same time.
+Several people are running a race next to a vineyard.,Several people are racing up Pike's Peak.,2,"The premise does not provide information about the location of the race, so it's impossible to determine if it's taking place at Pike's Peak.  
+",Several people running a race next to a vineyard in no way denotes of them racing up Pike's Peak.
+A man dressed in orange looks like he is playing an instrument.,The woman is singing,2,"If a man is playing an instrument, it is likely that someone else is singing along.  
+",There is either a man or a woman.
+A man is holding a video camera.,the man is using technology,1,"Video cameras are a type of technology.  
+",Holding the camera isn't necessarily using the camera.
+A woman next to a subway entrance in a tan coat is asking a woman in a pink coat directions.,The woman in tan questions the woman in pink,0,"The premise states that the woman in the tan coat is asking for directions, which directly implies that she is questioning the woman in pink.  
+",the woman can be wearing a tan coat
+A woman is reaching for something in her bag as they stand in front of a food stand.,A woman is buying food.,1,"Reaching into a bag often precedes the act of paying for items at a food stand.  
+",She may not be buying food
+A man walks up to a red and yellow building to pay for gas on a gold but sunny day.,A person pays for a petroleum product.,0,"Paying for gas at a gas station is a common way to purchase a petroleum product.  
+",gas is a petroleum product.
+Children play on a giant work of art.,Kids are seated at their desks in school.,2,"The premise describes a scenario outside of a typical school setting, making it unlikely that children would be seated at their desks.  
+",Desks in school aren't a giant work of art.
+Passerby admiring painting at an outdoor art fair.,Several passers by admiring many paintings at the art fair.,1,"If one person is admiring a painting, it's likely that others are also admiring other paintings at the same art fair.  
+",It is not implied that there are several passers by. There are not necessarily many paintings.
+Two men in safety harnesses work together.,Two men are window washers.,1,"Safety harnesses are commonly used by window washers.  
+",Men being in safety harnesses does not imply they are window washers
+A girl with long dark hair wearing a yellow and white shirt is smiling.,The girl has straight teeth.,1,"Smiling often reveals the alignment and appearance of teeth.  
+",Not all girls have straight teeth.
+Two women are crossing the street in front of an apartment building.,The women are outside.,0,"Crossing the street in front of an apartment building implies the women are in an outdoor location.  
+",The women are outside in front of an apartment building.
+A view into a window of a seated person reading a newspaper and an old-timey black car.,A person watches TV in a minivan.,2,"While the premise describes a specific scene, it doesn't rule out the possibility of someone watching TV in a different type of vehicle at a different time.  
+",A car isn't the same as a minivan.
+A man riding his bike looking ahead at finish line.,A man is in a race.,0,"The act of riding a bike towards a visible finish line strongly suggests the individual is participating in a competitive event.  
+",A man riding a bike looking at a finish line is in a race.
+"A young girl dressed in pink lays on a tile and wood floor, next to a row of dominoes.",A young girl in pink plays with dominos after her nap.,1,"The presence of dominoes next to the girl suggests she was playing with them, and her position on the floor implies she may have just woken up from a nap.  
+",the young girl lying on the floor next to dominoes need not be playing it after a nap.
+Crowd of people sitting outside on green grass.,A group of people sitting on some grass.,0,"The premise specifies a crowd of people sitting on green grass, which can be understood as a group of people sitting on some grass.  
+",A group of people are the crowd sitting outside.  Grass is outside.
+Three army men engage in conversation with one another.,Naval officers in uniform discuss strategy.,2,"The premise does not provide information about the specific branch of the military the army men belong to, so it's impossible to determine if they are discussing naval strategy.  
+",An army doesn't have to be from the naval.
+A dog jumps and catches a Frisbee in the grass.,"The dog is a world-champion Frisbee catcher, and goes to competitions all over the country with his/her master.",1,"While catching a Frisbee in the grass is a common activity, it suggests a level of skill and aptitude that could be indicative of competitive training.  
+","Almost all dogs enjoy catching a Frisbee, not only those who are the world-champion."
+A man wearing a white hat and a white long-sleeve is walking.,A man is walking in the state park.,1,"The state park is a possible location for someone walking, including a man wearing a white hat and a white long-sleeve.  
+",One does not need to be in a state park to take a walk
+An older man in Bangalore sits in his shoe shop holding a piece of shoe.,A man sits and reads a book outside.,2,"There is no direct connection between the premise and the hypothesis as they describe unrelated scenarios.  
+",The man cannot be in a shoe shop and outside at the same time.
+Two boxers compete while spectators watch tensely from the background.,Two boxers are boxing.,0,"The premise describes a scenario where two boxers are engaged in a competition, which is the very definition of boxing.  
+",Two boxers compete with each other while spectators watch.
+"A young couple is sitting on a sidewalk with their helmets, in front of a motor scooter.",A kid is sitting with his helmet in front of a motor scooter.,2,"The premise describes a young couple, which could be interpreted as two kids.  
+",A kid would not be in a young couple.
+"A baseball field with two males, one african american male who is sliding into the base while the white male jumps on him to tag him with the ball, as an umpire in black looks on.",A bowler celebrates after rolling a strike.,2,"The premise describes a specific sporting event, while the hypothesis describes a celebration unrelated to the scenario presented.  
+",One cannot simultaneously be sliding into a base playing baseball while also rolling a strike as a bowler.
+A crowd of villagers in colorful hats surrounding packages made from an old truck in a jungle.,The group is taking a tour of historical downtown London.,2,"There is no logical connection between villagers in a jungle with packages made from an old truck and a tour of historical downtown London.  
+",They can't be surrounding packages and taking a tour at the same time.
+A person with clothes on is diving into water.,A person dives into the pool on a hot summer day.,1,"A hot summer day is a likely scenario for someone wanting to dive into a pool to cool off.  
+",It is not necessarily a hot summer day.
+Several people are taking part in an organized run.,A group is running together.,0,"An organized run implies that the participants are running together as a group.  
+",There is a group because there are several people.
+A young man in a striped shirt holds up a log in a park.,The person is holding a small log.,1,"The premise does not provide enough information to determine the size of the log.  
+",Not all logs are small.
+One martial arts practitioner kicks another in the head.,A martial artist beats another person during a competition.,1,"Kicking someone in the head during a martial arts competition could be considered a way of beating them.  
+",cant know if they are competition
+A woman in a long white dress and white boots is walking along a stone structure with white stone columns.,A female dressed in white is walking and seeing different stone structures.,0,"The premise describes a specific instance of a woman in white walking by a particular stone structure, while the hypothesis broadens the scope to encompass any female in white encountering various stone structures. 
+",Female is in both.
+An elderly man is cooking hotdogs on a grill.,A woman is cooking a steak in a frying pan.,2,"The premise and hypothesis describe separate cooking activities that could be happening simultaneously.  
+",An elderly man is not a woman. Hotdogs and steak are different foods. You cannot use a grill and a frying pan simultaneously.
+A youth rides a scooter on a sidewalk near a building.,A person is outside a building.,0,"The youth, being a person, is outside the building.  
+","A sidewalk can only be outside a building, therefore the person who rides a scooter is a youth."
+A man is skiing down a mountain with another large mountain behind him and a river between the mountains.,The man is very great at skiing.,1,"The premise describes a challenging skiing environment, which might suggest the man is skilled.  
+",the fact that the man is skiing does not imply that he is great at skiing.
+A man carrying a toddler on his shoulders.,The old couple is out on a long car ride.,2,"A long car ride might be a reason for an old couple to have a young child with them.  
+","A man and a toddler are not a couple, and it's unlikely they'd be in a car if the kid were on the man's shoulders."
+The black dog in the field has something in its mouth.,The dog is black.,0,"The hypothesis is a direct component of the information provided in the premise.  
+",the black dog in the field has something in his mouth. He must be playing fetch
+A girl is making a home run during her baseball game.,A girl hit a home run to win the game.,1,"If the girl made a home run during the game, it's possible that it was the decisive run to secure the victory.  
+","Although she is making a home run, it does not imply it will win the game."
+A brown dog in a field.,A dog is outdoors.,0,"The premise states the dog is in a field, which is a type of outdoor location.  
+",Field is outdoors
+Sunglasses wearing young white boy is standing in a field of white flowers and holding a soccer ball.,A boy is playing soccer indoors.,2,"There is no information in the premise about the location of the soccer game.  
+",The boy cannot stand and hold the ball and be playing soccer.
+A Corgi runs out of a tunnel.,The Corgi is running.,0,"Running out of a tunnel is an action that implies the subject is running.  
+",Corgi is  running out of tunnel
+A young girl is hugging someone dressed in a Stitch outfit.,A girl is sleeping,2,"Someone dressed as Stitch might be comforting a young girl who is having trouble sleeping.  
+",one cannot be hugging someone dressed in an outfit and sleeping at the same time.
+A person in a light green jacket carries a multicolored umbrella in an outdoor public area.,A person is preparing for rain,1,"Carrying a multicolored umbrella is a common action taken to prepare for rain.  
+",just because a person carries an umbrella does not mean a person is preparing for rain.
+Tourists board a Vietnamese skiff for a river tour.,the tourists are at home,2,"Being on a river tour in Vietnam does not provide information about whether the tourists are at home.  
+",The tourists cannot be on a river tour and be at home simultaneously.
+A man is jumping a rock on an orange dirt bike.,A man is reading a book.,2,"There is no logical connection between a man jumping a rock on a dirt bike and a man reading a book.  
+",One does not simultaneously be reading and jumping.
+A man is walking down a street with bicycles behind him.,A person lays dead in the street.,2,"The man walking down the street with bicycles behind him could have been involved in an accident that resulted in a person's death.  
+","One either lays dead in the street or is walking down a street, but not both."
+A man in an orange jacket is speaking with a cashier.,A man is in a black jacket.,2,"There is no information in the premise about the color of any other jacket besides the orange one.  
+",The man would not be wearing both a orange and a black jacket.  It would be one or the other.
+a section of street with movie posters and apartment buildings in the background.,A street in with a mountain in the background.,2,"While the premise describes a specific urban setting, it doesn't rule out the possibility of a distant mountain range being visible from that street.  
+",A mountain and apartment buildings are different objects.
+A little girl in a pink jacket throws leaves over her head in front of a fence.,The girl isn't wearing a jacket,2,"The premise states the girl is wearing a pink jacket, which directly contradicts the hypothesis that she is not wearing a jacket.  
+",The girl is either wearing a pink jacket or none at all.
+A man is sitting up against a wall with a sign near his feet.,A man is sitting on a sidewalk near the church.,1,"The sign near the man's feet could indicate the location of the church.  
+","Sitting against a wall is a common occurrence, the sidewalk near a church is a specific location."
+The gentlemen are on the boat deck relaxing.,Gentlemen chatting on a boat.,1,"Relaxing on the boat deck could involve chatting.  
+","We have no idea if they are chatting, you can relax and do a number of things."
+"A man with long hair, a mustache, and a beard is holding a guitar and sitting in front of a USA flag.",A man sits in front of a flag.,0,"The premise describes a man sitting in front of a flag as part of a larger description.  
+",Sitting in front of a flag entails it can USA or any flag
+The girl eating spaghetti is wearing a red jacket.,There is a girl in red eating food.,0,"The premise specifies a girl in a red jacket eating spaghetti, which is a type of food.  
+",Spaghetti is food.
+Three women in dresses and headscarves outside.,Three ladies are heading to a store.,1,"People often go to stores while dressed in dresses and headscarves.  
+",Just because the women are outside it does not mean they are heading to a store.
+There is a person and a dog amongst many trees.,The person is running through the forest trying catch her loose dog that is chasing a squirrel.,1,"The hypothesis provides a possible scenario explaining why a person might be running through a forest with a dog present.  
+","Not all groups of trees are big enough to be considered a forest, it might not be her dog, even if the person is female, and the dog could be doing anything, not just chasing anything."
+"A small smiling child huddled into the chest of an older man wearing orange, who is also smiling.",A kid laying on the chest of a man.,0,"The premise describes a child in a close embrace with an older man, which aligns with the concept of a child laying on a man's chest.  
+","The kid is huddled into the man's chest, so the kids is laying on the man's chest."
+A man with dark hair and glasses baking bread.,A man is working in a bakery.,1,"Baking bread is a common activity performed in bakeries.  
+",Baking bread does not mean the man is working in a bakery.
+"Young man skating while a crowd looks on, in an amusement park.",An ice skater practices,0,"A crowd watching someone skate in an amusement park suggests a performance or practice rather than casual skating.  
+",Young man skating implies that the skater is practicing.
+"Children dance in a park in front of a large, black, inflatable object.",children are dancing with each other for fun,0,"Dancing in a park, especially in front of an inflatable object, suggests a playful and social activity.  
+",Children dance simply means children are dancing with each other for fun
+Two guys in coats laugh while walking down a street.,A couple of guys are sitting on the beach at the ocean.,2,"There is no logical connection between two guys laughing on a street and a couple of guys sitting on a beach.  
+",The men can't be walking and sitting at the same time.
+A person wearing a blue uniform.,A woman in a blue police uniform is directing traffic.,1,"The hypothesis specifies a woman in a police uniform directing traffic, which is a more specific instance of the general premise of someone wearing a blue uniform.  
+",Not all persons are a woman.  Not all blue uniforms are a police.
+Several boys in short and tank tops or t-shirts are running.,A group of old ladies are running in shorts and tank tops.,2,"The premise describes boys wearing casual clothing while running, and the hypothesis describes a different group of people wearing similar casual clothing while running.  
+",Boys are young and cannot be female.
+A sponsored race car is spinning its tires on a track while being watched by spectators.,A sponsored race car is being controlled by the driver,0,"Race car drivers typically control the actions of their vehicles, including spinning the tires.  
+",A car cannot be spinning its tires without being controlled by the driver.
+A man alone on a gravely beach.,Three friends sit together at a picnic table sharing a lunch.,2,"The premise describes a solitary individual in a desolate setting, while the hypothesis depicts a scene of social interaction and shared enjoyment.  
+",The man in sentence one is alone. In sentence two there are three people together. There could be a picnic table at the beach.
+A man and a woman walk with a white dog on a leash.,The couple is taking their dog for a walk.,0,"Walking with a dog on a leash is a common activity people do with their pets.  
+",a man and a woman is a couple and white dog is a dog
+man with dark blue apron taking an order,Man taking orders at a deli.,1,"A deli is a place where orders are taken, and an apron is commonly worn by deli workers.  
+",A deli is not the only place a man could take orders.
+A yard laborer is cutting grass with a push lawn mower buy a busy street and a parking lot.,A guy is working on his yard.,1,"A yard laborer cutting grass is likely working on someone's yard.  
+",A yard laborer who is cutting grass is not always a guy and it is not always his yard.
+A person wearing a white t-shirt and blue ball-cap sitting on a skateboard on a sidewalk in the mingling of shadows and sunlight.,A person in a white t shirt is sitting on a skatebaord,0,"The hypothesis is a simplified version of the details provided in the premise.  
+",The persons referred to has white t shirt and sits on a skateboard.
+A bank teller standing at a counter.,A bank teller is standing at the counter.,0,"The hypothesis simply restates the information provided in the premise.  
+",A bank teller standing at a counter is standing at a counter.
+A woman in a white shirt stands at the entrance of an ethnic goods shop.,A woman in a white shirt waits for her friend at the entrance of an ethnic goods shop.,1,"Waiting for a friend is a possible reason for someone to stand at the entrance of a shop.  
+",A woman at the entrance of an ethnic goods shop can have other reasons than doing so as she waits for her friend.
+Fans watching a basketball game indoors at a stadium.,Fans watching  game indoors at a stadium.,0,"The hypothesis is simply a restatement of the premise.  
+",Fans watch basketball games at a stadium indoors.
+A woman is posing for a picture next to an airport.,There is a model doing a photo shoot.,1,"A woman posing for a picture in an airport setting could be a model conducting a professional photo shoot.  
+",A woman posing does not imply she is a model.
+A little boy in a red shirt is swinging at a pinata.,A young boy swings at a pinata.,0,"The hypothesis is a more general statement that encompasses the specific details provided in the premise.  
+","Young is a synonym of little, and swings is a synonym of swinging."
+Women compete in a game of roller derby.,Men are racing go karts.,2,"The two statements describe separate and unrelated activities.  
+",Women and men are different.
+A baseball player coming into home plate with knee held high and the catcher right in front of him waiting for the ball.,the baseball player is up to bat,0,"A baseball player coming into home plate typically occurs after hitting a ball, which would mean they are up to bat.  
+","""is up to bat"" is a rephrasing of "" into home plate with knee held high""."
+People sitting and walking along the street of a city.,The people are in the ocean.,2,"The premise describes a common urban setting, while the hypothesis places individuals in a distinctly different environment.  
+",You cannot be in the ocean and in the city
+A bunch of kids and adults playing with different colored balls on a rock sidewalk.,Kids are playing in a park.,2,"Rock sidewalks are commonly found in parks.  
+",A park is not a rock sidewalk.
+Two women reading in the shade.,The women are sleeping on the grass.,2,"While reading in the shade might induce drowsiness, it doesn't necessarily mean the women are asleep on the grass.  
+",The women are reading or sleeping.
+Two women nurses looking at a circular purple object together in a hospital.,Two nurses look at a thing.,0,"The premise describes two nurses observing an object, which aligns with the hypothesis's statement about two individuals looking at a thing.  
+","Two nurses look at a thing is a shortened version of the ""two women nurses looking at a circular purple object"""
+A man in a wheelchair being pushed in the library,The man's son is pushing him in a wheelchair as the man searches for a book.,1,"It is plausible that a son would be pushing his father in a wheelchair while helping him find a book in a library.  
+",Just because a man is being pushed in the library doesn't mean his son is pushing him nor does it mean he's searching for a book.
+A man wades in the water and watches a waterfall.,a man wades in lava,2,"The premise describes a man engaging in a risky activity near water, suggesting a willingness to tolerate danger.  
+",One cannot wades in water and wades in lava simultaneously.
+A man catches a decent sized fish and is taking it off the hook,A man unhooking a fish.,0,"The act of taking a fish off the hook is the same as unhooking it.  
+",unhooking is another way to say taking it off the hook.
+One group of women and a group of men drinking and having a good time.,Someone is drinking too much and is drunk.,1,"When people drink and have a good time, it's possible for some individuals to consume excessive amounts of alcohol, leading to intoxication.  
+",Drinking and having a good time does not imply that it is too much or that anyone is drunk.
+"A Caucasian woman wearing two pigtails is walking down a flight of stairs while, carrying a green tube across her back.",A woman is dancing in the street.,2,"There is no logical connection between a woman walking down stairs with a green tube and a woman dancing in the street.  
+",The woman is not walking down stairs because she is dancing in the street.
+a chef in an outdoor kitchen preparing food in a marketplace,The man is chopping vetetables outside.,1,"A chef preparing food in a marketplace is likely chopping vegetables as part of their culinary tasks.  
+","Just because the chef is preparing food, doesn't mean he's chopping vetetables."
+Two girls posing for a picture on a path surrounded by trees.,Two girls are playing tennis.,2,"The premise does not provide any information about the girls' activities, so we cannot conclude they are playing tennis.  
+",Either Posing for a picture or playing tennis.
+An infant plays in an inflatable pool toy.,The infant is happy,1,"Playing in an inflatable pool toy is often a source of enjoyment for infants.  
+",Not all infants playing need to be happy
+Apparent crime scene with a policeman holding a dog.,There was a felony committed.,1,"The presence of a policeman at a potential crime scene suggests an investigation into a possible criminal offense, which could involve a felony.  
+",Just because a crime was committed it does not mean the crime was a felony.
+A young adult is hula hooping.,A young adult is playing hula hoop.,0,"Hula hooping is a form of play.  
+",A young adult hula hooping is playing hula hoop.
+A child gets ready to swing at a pinata.,A child gets ready to swing at her parents.,2,"The hypothesis makes a false and illogical leap by assuming a child's desire to hit a piñata translates to a desire to harm their parents.  
+",The first girl swings at a pinata and the other at her parents. They are hitting different things.
+Woman in long blue jacket talks on cellphone in front of large window.,there is a female wearing blue jacket busy on phone standing near window,0,"The hypothesis rephrases the information provided in the premise in a slightly different way while maintaining the same core meaning.  
+",A female is a woman and she is busy on the phone so she talks on cellphone
+A group of people with signs and banners walking down the street,The group of people are protesting their rights.,1,"People often use signs and banners to express their views and advocate for change, which can include protesting for their rights.  
+",Just because a group of people with signs and banners walk down a street does not imply that they are protesting their rights.  They could be with signs and banners for other reasons.
+"A young boy wearing a white tunic, white pants, and a yellow belt is standing on his left leg with his right leg extended in a karate pose.",A boy getting dressed for school.,2,"The boy's clothing, typical of a school uniform, suggests he might be preparing for school.  
+",A boy dressed for school cannot be in white tunic
+An artists is drawing a comical sketch of a young boy.,The artist draws a sketch of a turtle.,2,"A comical sketch could depict a turtle as a humorous representation of a young boy.  
+",An artist cannot draw a sketch of a young boy and a turtle at the same time.
+A man wearing an orange shirt and helmet is suspended in the air.,The woman waves at the plane.,2,"A man suspended in the air could be signaling to a plane.  
+","The man was suspended, and the woman waves.  These sentences aren't speaking about the same people."
+"Two men in black outfits are carrying trays of food, with a third man in the background.",two men are hiking in the snow,2,"There is no logical connection between men carrying food and men hiking in the snow.  
+",People do not carry trays of food while hiking in the snow.
+A white man wearing a ball cap and backpack is riding a bicycle while flipping the camera an obscene gesture.,The man is angry.,1,"Flipping an obscene gesture is often a physical expression of anger.  
+",One can display an obscene gesture and not necessarily be angry.
+A woman with a rolling luggage waits on a sidewalk.,The woman is waiting for a taxi.,1,"Rolling luggage is often associated with travel, and people traveling frequently use taxis for transportation.  
+",Just because a woman is waiting on a sidewalk does not mean that she is waiting for a taxi.
+A skateboarder grinds down a long rail.,A person is riding a bike on a ramp.,2,"Neither statement provides information about the other.  
+",A skateboarder does not ride a bike.
+One girl is taking a picture of another girl outside.,The girls is smiling for the photo.,1,"It is common for people to smile when having their picture taken.  
+",Taking a picture does not necessarily mean the girls is smiling for the photo.
+A man is working with fire and tar to repair a roof.,A man is fixing a leaking roof.,1,"Fire and tar are common materials used to seal leaks in roofs.  
+",Just because a man is working to repair a roof it does not mean he is fixing a leaking roof.
+A hockey goalie is about to catch a puck.,A hockey goalie hasn't been scored upon.,1,"If a goalie successfully catches a puck, it means they have prevented a goal from being scored.  
+",There is no indication that the goalie hasn't been scored upon.
+A lady in blue holding a child looking happy.,A woman in a blue dress.,0,"The premise describes a woman wearing blue, which aligns with the hypothesis of a woman in a blue dress.  
+","A lady is a woman, and in a blue dress is a paraphrase of in blue."
+Guy and girl getting ready for camping trip.,Folks prepare to camp.,0,"The premise describes a specific instance of people preparing for camping, which is a general activity encompassed by the hypothesis.  
+",guy and girl are preparing for a camp
+"A man in a gray business suit, carrying a large book and a briefcase, ascends a marble staircase.",A business man climbs a staircase quickly because he is late to a meeting.,1,"The man's attire and the presence of a briefcase suggest he is engaged in professional activities, making it plausible he is rushing to a meeting.  
+",A man in a business suit is not necessarily a business man.
+Rider in red racing a mini red race car that rides very close to the ground.,A car is sitting outdoors.,0,"The premise describes a race car, which is a type of car, and states it is sitting outdoors.  
+","The term ""ground"" implies that the car is being ridden outdoors."
+A young male is kicking a multicolored ball.,A young man is playing with his son,1,"The act of kicking a ball is a common activity shared between fathers and sons during playtime.  
+",Man is playing a ball with his son
+A young boy wearing a mask stands holding two bags of bread.,A boy wearing a mask holds two bags of wheat bread,1,"While the premise doesn't specify the type of bread, it's reasonable to assume the bags contain wheat bread as it's a common type.  
+",just because a boy is wearing a mask stands holding two bags of bread doesn't mean he is holding two bags of wheat bread
+A smiling child sitting in a restaurant at the table.,A grumpy child throws a toy across the room.,2,"The premise describes a happy child, while the hypothesis describes a negative action, suggesting a change in the child's emotional state.  
+",The child is either smiling or grumpy.
+Two women look at a series of purple screens,A couple is watching something.,0,"Watching something on a series of screens is a common activity couples might engage in together.  
+",watching is another way to say look at. Screens are something.
+A girl is doing a trick on a blue trampoline and is in the air.,A girl goes for a run with her dog in the park.,2,"The premise describes a girl engaging in an activity, while the hypothesis describes a different activity the girl might do at another time.  
+",The girl can't be running with her dog in the park because she's doing a trick in the air.
+An elderly woman in a blue shirt speaks with a male with her hands on her hips.,The woman in the red shirt is singing!,2,"There is no information in the premise about the woman in the red shirt or her actions.  
+",A woman in a blue shirt who speaks can't at the same time be a woman in a red shirt singing.
+a young person sliding down a sandy hill.,They are sledding.,1,"Sliding down a sandy hill is a common activity associated with sledding.  
+",They could be doing something other than sledding.
+A woman pulls a happy girl on her sled during winter.,Two people and a sled.,0,"The premise describes a woman and a girl interacting with a sled, fulfilling the condition of two people and a sled.  
+",A women and a happy girl refers to two people.
+A man with a backpack and two children are on the beach.,A man and his children are having fun.,1,"People on the beach, especially with children, are often engaged in recreational activities.  
+",They have fun at the beach.
+"A football player wearing the number ""8"" looks at his teammate in the distance.",The players are tennis players,2,"The premise provides information about a football player, while the hypothesis states that the individuals involved are tennis players, suggesting a disconnect between the two.  
+",A football player does not have teammates in tennis players.
+"Boys and men, mostly all wearing helmets, hang on to two separate cars while they ride skateboards.","A group of guys is carousing through the streets on skateboard, grabbing onto passing cars.",1,"The premise describes a scenario where individuals are skateboarding while holding onto cars, which aligns with the hypothesis of a group engaging in a boisterous activity involving skateboards and cars. 
+",Just because the boys and men are hanging on to two separate cars does not imply they are grabbing onto passing cars.
+A soccer team is practicing or playing the game.,A team playing a sport,0,"Since a soccer team playing the game is a team playing a sport, the premise implies the hypothesis.  
+",Soccer is a type of sport and the team is playing it.
+"Three people wearing hats, two sitting, talking, and eating, and one laying down.",Three people are talking and eating together,0,"The premise states that two people are sitting, talking, and eating, which directly supports the hypothesis that three people are talking and eating together. 
+","""Talking and eating together"" is a rephrasing of ""two sitting, talking, and eating, and one laying down""."
+"A man with a sledgehammer about to strike at wood, another man seems to be trying to get away on the side.",The man with the sledgehammer is chasing the other man and the other man is afraid.,2,"The actions described in the premise, a man swinging a sledgehammer and another man fleeing, strongly suggest a pursuit scenario.  
+",The man with a sledgehammer would not stop to strike at wood if he were chasing the other man.
+A baseball catcher trying to tag a base runner in a baseball game.,Employees are playing ball at the annual company baseball tournament.,1,"The premise describes a scenario common in a baseball game, which is a type of activity that might occur at a company baseball tournament.  
+",People playing baseball doesn't imply them being employees and a baseball game doesn't necessarily mean the annual company baseball tournament.
+A small group of firefighters stand in all their firefighting attire and face masks while in front of a firetruck.,A group of police officers stand in front of their car,2,"Both premises describe a group of uniformed professionals standing in front of their respective vehicles.  
+",Police officers are different than firefighters.
+"Girl in club DJ both showing camera the cover of Michael Jackson's ""Thriller.""",A girl holds an autographed Thriller album.,1,"If the girl is showing the cover of Michael Jackson's ""Thriller,"" it's possible she has an autographed copy.  
+","Having a cover of Michael Jackson's ""Thriller"", does not mean it is autographed."
+A young adult reads a book at the laundromat as he waits for his laundry to be done.,A young adult reads a book.,0,"The premise describes a young adult reading a book as part of their activity at the laundromat.  
+",young adult reads a book means the same as young adult reads a book
+A little girl in pink and blue jumps over a puddle.,The little girl jumped over the puddle.,0,"The hypothesis is a simplified version of the action described in the premise.  
+",girl jumps over a puddle is same as girl jumped over the puddle
+A man and a woman sit together on a beach as the sun sets.,people on their honeymoon,1,"While a man and woman sitting together on a beach at sunset could be on their honeymoon, it's also possible they are friends, family, or simply acquaintances enjoying the view.  
+",People can sit together without being on honeymoon
+"A woman, talking on her cellphone, and a man are standing outside of a Sbarro pizza restaurant, next to the subway.",A woman is talking to her boyfriend.,1,"While we don't know for sure who she's talking to, it's possible she's speaking to her boyfriend.  
+",There is no evidence the woman is talking to her boyfriend just because she is on her cellphone. She may be talking to her mother.
+Workmen dressed in orange vests are holding shovels and standing on railroad tracks.,The men are playing pool.,2,"There is no logical connection between workmen on railroad tracks with shovels and the activity of playing pool.  
+",One is either standing on railroad tracks or are playing pool.
+A dog chewing a blue rope while two men watch from behind.,Two men are watching a dog from their car.,1,"While the premise describes men watching a dog, it doesn't specify if they are in a car.  
+",The car may not be behind the dog.
+A man in sitting in front of a large Calvin Klein steel advertisement with a long instrument.,A musician is outside.,0,"The presence of a long instrument suggests the man is a musician, and being in front of an advertisement implies he is outdoors.  
+",A musician would be holding an instrument and in front of a Calvin Klein advertisement if he were outside.
+A little girl cuddles a kitten while she looks at Christmas presents and an older woman looks on.,The girl is holding a kitten,0,"The premise states that the girl is cuddling a kitten.  
+","When the girl holds the kitten, she also cuddles it."
+A little boy presses his face a window.,The boy pressed his face against the window.,0,"The hypothesis simply clarifies the action described in the premise by specifying the manner in which the boy pressed his face against the window.  
+",A little boy is a boy.
+A surfer with a large white surfboard and tether line is standing on the beach on an overcast day.,A surfer stands on the beach with clouds overhead.,0,"The premise states the surfer is on a beach on an overcast day, which means there are clouds overhead.  
+",A surfer with a large white surfboard is a surfer
+A man with glasses and black coat pushing a cart full of bags on a travelator.,A man is walking inside a tunnel.,0,"Travelators are often found in tunnels to assist with movement.  
+","Travelators are found in airport tunnels, so a man pushing a cart full of bags on a travelator is also walking inside a tunnel."
+A large crowd stand watching with a large buildings in the background.,People are at a concert.,1,"Large crowds gathering to watch performances are common at concerts.  
+","We have no idea if they are at a concert, they could be a number of places."
+A group of people in uniform dress are walking around outside of the Olympics.,The group of people are not standing still,0,"The premise states they are walking, which implies they are not standing still.  
+",The group of people are not standing still they are walking around.
+An Asian girl standing outside a building.,The asian girl is young.,1,"There is no inherent connection between a person's race and their age.  
+",The girl may not be young.
+Two men taking pictures.,The men took pictures.,0,"The hypothesis simply states the action described in the premise.  
+","""Men"" signifies more than one man, as is the case with two men. If the men took pictures then they were engaged in taking pictures."
+A bald man is standing in a crowd.,The man knows the crowd.,1,"Knowing a crowd often involves recognizing individuals within it, and the premise describes a specific man standing out in a crowd.  
+",Standing in the crowd does not mean he knows the crowd.
+A young boy rides a bike down a snow covered road.,The boy is riding in the desert.,2,"There is no logical connection between a boy riding a bike on a snowy road and the idea that he is in a desert.  
+",A desert is not a snow covered road.
+Children are eating food at a table.,Children are eating.,0,"The premise specifies that children are eating at a table, which is a location where eating typically occurs.  
+",The second sentence infers eating food.
+a girl stands in the train tracks.,A girl is outside,0,"If a girl is standing on train tracks, she must be outside.  
+",Train tracks are typically outside.
+Two musicians are playing music in a barn.,Three musicians are playing music in a barn.,2,"The hypothesis includes an additional musician not mentioned in the premise.  
+",There are either two or three playing in a barn.
+Children participate in a sport involving swine among spectators.,the kids play a swine sport for spectators.,0,"The premise describes children playing a sport with swine in front of an audience, which aligns with the hypothesis that they engage in a sport involving swine for the entertainment of spectators. 
+",THE CHILDREN ARE KIDS.
+A woman sleeps under a blue and white blanket in a car.,A woman sleeping in a car.,0,"The premise states the woman is sleeping under a blanket in a car, which directly implies she is sleeping in a car.  
+",Sleeps under a blue and white blanket is a form of sleeping.
+Many people gather in a large zen garden in front of some colorful houses.,The houses have no color to them.,2,"The premise states that the houses are colorful, directly contradicting the hypothesis that they have no color.  
+",The houses cannot be colorful if they have no color.
+A man is in the desert a few feet off the ground holding onto strings of a parachute.,A man is in a parachute,1,"If a man is holding onto strings of a parachute while off the ground in the desert, it is likely he is within the parachute.  
+",the man in the desert holding the strings of parachute does not imply he is in the parachute
+People are walking around an oriental plaza.,People are shopping,1,"Oriental plazas are often places where people go to shop for goods and services.  
+",not all people are shopping.
+"Two men, wearing hard hats and blue and yellow coats stand in front of a large machine and smile.",The men are practicing interpretive dance.,2,"The premise does not provide any information about the men's actions beyond smiling, which could be a result of many activities besides interpretive dance.  
+",Two people standing in front of a machine are not dancing.
+A car which looks to be a hatch back is on fire with a man in a fire proof suite and helmet is laying across the hood while people are watching,A car is speeding down a street,2,"A car on fire, especially one with someone in a fireproof suit, could indicate a dangerous situation that might involve speeding.  
+",A man is laying across the car's hood or it is speeding down a street.
+A young girl looks up as she rides on a merry-go-round.,The little girl looks at others while she is on the merry-go-round.,0,"Looking up could mean she is observing the people around her on the merry-go-round.  
+","A young girl is a little girl, and when she rides the merry-go-round she must be on the ride."
+A brown dog with its mouth open and ears in the air running on a grassy surface.,A dog is running outside,0,"The premise describes a dog in a specific situation that strongly suggests it is outside.  
+",The dog is on a grassy surface so he must be outside.
+A woman wearing a p blouse walks up a flight of stairs.,A woman wearing a pink shirt is going up stairs.,1,"The hypothesis rephrases the premise using the word ""pink"" instead of ""p"".  
+","A ""p blouse"" that the woman is wearing is not necessarily a pink shirt."
+three dogs play together.,Friendly dogs play together.,0,"If the dogs are playing together, it suggests they are likely friendly with each other.  
+",Dogs can be friendly.
+A woman is painting with a stencil.,A woman creates a painting.,0,"Using a stencil is one method a woman could use to create a painting.  
+",Painting with a stencil is creating a painting. This is a general restatement.
+"Two men in life jackets, in a rubber raft powered by an engine, are traveling at high speed on the water with wind turbines on the distant shore.",The people here have taken some safety precautions.,0,"The presence of life jackets suggests a concern for safety during their water travel.  
+",When traveling at a high speed use should use safety precautions.
+Three people at with their backs to the camera at an internet bar.,Three women dancing on a bar.,1,"There is not enough information in the premise to determine if the people are dancing or not.  
+",Not every people at with their backs to the camera needed to be the women.
+A man wearing black jeans and skater shoes climbs a jungle gym.,A man climbs a jungle gym in preparation for his audition at American Ninja Warrior.,1,"The clothing described in the premise is often associated with the athleticism required for American Ninja Warrior.  
+","The man could be climbing the jungle gym for any reason, there is no way to imply that he is doing it in preparation for his audition at American Ninja Warrior."
+A couple in a boat fishing on a small river.,A couple in a boat on a small river.,0,"The hypothesis is a simplified version of the premise, removing the detail about fishing.  
+",Fishing must be on a boat.
+A girl in a blue dress walks through a crowd of people.,Girl in blue dress walking through crowd,0,"The hypothesis is a concise restatement of the actions described in the premise.  
+","If the word ""crowd"" is used without a modifier, it is generally assumed to refer to a crowd of people."
+A man dressed as a colonist speaks to a crowd in a cloudy town.,An old fashioned man is addressing a group,0,"The description of the man's attire as a ""colonist"" suggests a style of dress from a bygone era, leading to the inference that he is an ""old fashioned man"".  
+",man is an old fashioned man and speaks is same as addressing
+Fourteen people building a foundation next to a yellow house.,There are people building a new house next to the yellow house.,1,"Building a foundation is a necessary step in constructing a new house.  
+",Fourteen people building a foundation next to a yellow house does not mean that they building a new house
+A beautiful long-haired blond girl dressed in a blue and green bikini walking down a street,A girl wearing a bikini is going to a pool party.,1,"Bikinis are commonly worn at pool parties.  
+",Sentence two may be talking about different girl
+A group of people are gathered on a street covered with smoke.,A group of people are on the street.,0,"The premise states the presence of people on a smoky street, which directly implies they are on the street.  
+",People that are gathered on a street are on the street.
+A person in a scuba suit holds a very small lobster.,A diver underwater.,1,"A person in a scuba suit is a diver, and they are underwater when wearing a scuba suit.  
+",The diver could hold a lobster in a boat not underwater.
+"Cheerleaders, wearing blue shirts and black shorts, dancing in a gym.",Cheerleaders are eating small children,2,"There is no logical connection between cheerleaders dancing in a gym and the idea that they are eating small children.  
+",Cheerleaders cannot dance while eating at once.
+A person in a wheelchair is on a sidewalk.,A woman is pushing an elderly person in a hospital bed.,2,"While a person in a wheelchair might be mobile independently, a hospital bed suggests a need for assistance, potentially from a woman pushing it.  
+",sidewalk and hospital are not the same
+This is a crowded street with some trucks in the middle.,trucks will race,1,"The presence of trucks in a crowded street could create an environment where they might engage in racing.  
+",Trucks in the middle of a street does not mean that they will race.
+The mouse is sitting on the dog that is in turn sitting on a coat in front of the man wearing the black top.,A man sits near his pets.,1,"The premise describes a man with a dog and a mouse, suggesting a possible interaction between the man and his pets.  
+",The mouse is sitting on the dog that is in turn sitting on a coat in front of the man doesn't means that they are his pets.
+Two women and two boys dressed in pink stand outside a shop selling brightly colored clothing.,A group of people are walking around at the zoo.,2,"While the premise describes a specific group of people in a clothing store, it doesn't rule out the possibility that they could be visiting a zoo after their shopping trip.  
+",They can't be walking around the zoo if they are selling clothing.
+"A food vendor stands behind a display of bins of several types of nuts, candy, or other small snacks, with signage in Hebrew.",A vendor at a hebrew stand.,0,"The presence of Hebrew signage indicates the stand is associated with Hebrew language and culture.  
+","Because the signage is in hebrew, it can be assumed that the vendor is at a hebrew stand."
+An inline skater in red pants and blue shirt skates between green cones.,A skater is skating up a hill.,1,"The premise does not provide information about the skater's direction or the terrain they are skating on.  
+",Skates between green cones does not necessarily mean skating up a hill.
+A band is performing on stage at a place of business.,The band members are performers.,0,"If a band is performing on stage, it is logical to assume they are skilled in performing music.  
+",Someone performing on stage implies they are performers
+There are several people in a park.,There is a group at the park.,0,"The presence of several people suggests the possibility of them forming a group.  
+",A group consists of several people.
+An older person is sitting on a red bench next to a black man with a children's bookstore behind them both.,An old man and a black man are sitting on a bench in front of a bookstore.,1,"The premise describes a specific scenario that aligns with the general description provided in the hypothesis.  
+",It's not apparent it's a man.
+"Five people wearing winter jackets and helmets stand in the snow, with snowmobiles in the background.",A group of people are getting ready to ride their snowmobiles in the winter.,1,"The presence of winter jackets, helmets, and snowmobiles suggests the individuals are preparing for a snowmobile ride.  
+",Five doesn't always mean    group
+A woman in white makeup and a purple dress sits in a folding chair on the curb.,A girl is observing the road from one side.,1,"Someone observing the road from the curb could be a girl.  
+",A woman on the curb is not necessarily observing the road.  A woman is not assumed to be a girl.
+A woman is pointing at a computer device for a young girl,A woman and girl are having lunch tohether.,2,"Perhaps they are using the computer device to look up a restaurant menu or order food online.  
+",You cannot be eating and pointing at the same time.
+A child is playing soccer with a blue and white soccer ball nearby onlookers.,Little Billy was playing soccer with his soccer ball.,0,"The premise describes a child playing soccer with a blue and white ball, and the hypothesis specifies that Little Billy was the child playing with his soccer ball.  
+",The child playing is named Little Billy and the soccer ball belongs to him.
+A man with glasses and a red backpack standing in front of a brick wall,A man stands in front of a wall.,0,"The premise describes a specific man in a particular location, which includes standing in front of a wall.  
+",Stands is just a different form of standing.
+A woman in a light green skirt is holding a black purse.,The lady holds a heavy purse.,1,"There is no information in the premise about the weight of the purse.  
+",It is not necessarily that A woman in a light green skirt is holding a black purse holds a heavy purse.
+A worker in safety clothes is standing up on the wooded edge of the construction.,The worker is naked,2,"The premise states the worker is wearing safety clothes, which would preclude them from being naked.  
+",If a worker is in safety clothes the worker can not be naked.
+"Two men, one wearing a yellow shirt and the other man wearing a blue shirt are riding bikes on a track.",Two men are preparing for a bike race.,1,"Riding bikes on a track is a common activity for people preparing for a bike race.  
+",Riding bikes on a track does not imply that they are preparing for a race.
+Festival-goers have a fun time with their children,The families at the festival were having fun with their kids.,0,"The hypothesis describes a specific group of people at the festival, while the premise makes a general statement about festival-goers, which includes families.  
+",Festival-goers have a fun time means families at the festival were having fun
+A girl in a gray shirt and brown hair relaxes on the lawn as dogs bound around her.,A girl in a shirt is relaxing on the lawn.,0,"The hypothesis focuses on a more general description of the girl's attire and activity, omitting the specific details about the shirt's color and the presence of dogs.  
+",A shirt can be any color. When someone relaxes they are relaxing.
+Baseball pitcher throwing a pitch.,A batter cleans off his bat.,2,"A batter might clean off his bat in preparation to face a pitch.  
+",pitcher throwing cannot be a batter who cleans at the same time
+Six men sitting around a desk with computers while a woman dressed in a white suit looks through papers.,These people are enjoying the great outdoors while taking a hike.,2,"The premise describes an indoor setting with technology, which is incompatible with the outdoor setting implied by the hypothesis.  
+",People can't both be sitting and taking a hike.
+Someone in a red shirt stacking many animal hides.,This person is at work,1,"The act of stacking animal hides suggests a task or job, implying the person is likely working. 
+","Stacking many animal hides does not mean he is at work, he could be doing this only for the moment"
+A young man taking a picture of another young man outdoors.,The man is holding a camera.,0,"Taking a picture requires the use of a camera.  
+",The man has to be holding the camera to take a picture.
+The restaurant staff are cleaning up the tables.,The employees are tidying up.,0,"Cleaning up tables is a type of tidying up.  
+",Employees tidying up is a rephrasing of the restaurant staff are cleaning up.
+A woman stands behind a bar serving drinks.,A woman stands at a bar,0,"The premise specifies the woman is behind the bar, which implies she is at the bar.  
+",One has to be standing at a bar in order to be behind a bar.
+"Snowboarder balances on low, wooden structure in snow.","Skier balances on low, wooden structure in snow.",2,"Both snowboarding and skiing involve balancing on a board in snowy conditions.  
+",a snowboarder is a different sport than skier
+Young men are playing soccer on a beach.,Young men sit next to their soccer ball on the beach.,2,"If young men are playing soccer on a beach, it's likely they would take breaks and sit near their soccer ball.  
+",If the young men are playing soccer then they do not sit next to the soccer ball
+Three men in an auditorium prepare to tape something.,The shot only shows some women swimming.,2,"The premise provides no information about the gender or activity of the people being filmed.  
+",There would be either men or women.
+People standing in front of mechanical equipment.,People in front of a crowded area,1,"Mechanical equipment is often found in crowded areas.  
+",A crowded area is not the same as in front of mechanical equipment.
+Men and women of various ages sit playing instruments in an orchestra while a similar group stand in the background as a choir.,THe men and woman doing a show.,1,"The act of playing instruments and singing in an organized manner strongly suggests they are performing a show.  
+",Just because Men and women of various ages sit playing instruments in an orchestra while a similar group stand in the background as a choir does not mean that they are doing a show.
+Five children are playing on a large round swinging net.,Some children are on a large net.,0,"The premise states there are five children on a large round swinging net, which directly supports the idea that some children are on a large net.  
+",some children can refer five children.
+One guy flexing his muscles.,The guy is flexing.,0,"The premise describes an action, and the hypothesis states that the person is performing that action.  
+",If he is flexing his muscles he is flexing.
+A man is rock climbing at sunset.,A climber is nearly to the top of a cliff.,1,"Rock climbing at sunset often involves reaching the top of a cliff as the sun sets.  
+",Just because he's climbing a rock doesn't mean he's anywhere near the top of a cliff.
+A kid with a green bucket over his or her head.,A kid is with a bucket,0,"The premise states a specific type of bucket, while the hypothesis simply states the presence of a bucket.  
+",With a green bucket and with a bucket means the same thing.
+A man surfing is doing a trick as he rides a wave that's about 20 feet high.,A surfer is riding a very large wave.,0,"The premise states the wave is 20 feet high, which is considered a very large wave.  
+","A man surfing and ""rides a wave that's about 20 feed high"" implies that a surfer is ""riding a very large wave""."
+"A scottish band, whose members are dressed in kilts, marching in front of onlookers, playing bagpipes.",A scottish band is passed out after heavy drinking.,2,"While a Scottish band in kilts playing bagpipes might be associated with celebrations involving alcohol, it doesn't automatically mean they are passed out after drinking.  
+","If they are marching and playing bagpipes, they are not passed out."
+A person is going for a walk.,A man is walking to the grocery store.,1,"The hypothesis provides a more specific detail about the person described in the premise.  
+",A person going for a walk is not necessarily going to the grocery store.
+A woman is watching a man dance.,The woman is dancing.,2,"There is no logical connection between a woman watching a man dance and the woman herself dancing.  
+","If a woman is watching a man dance, then she herself cannot be dancing."
+A tattoo artist applying tattoo ink to the skin.,A tattoo artist happily applying tattoo ink,1,"The premise describes a basic action, while the hypothesis suggests an emotional state accompanying that action.  
+",Just because a tattoo artist is applying tattoo ink it does not mean they are happily doing it.
+A young couple posing on a couch.,A couple dance together at prom.,2,"Young couples often enjoy dancing together at social events like prom.  
+",The couple posing on a couch cannot be the same couple that dance together.
+A boy hits the ball at a baseball game.,a boy plays a game,0,"Hitting a ball is a common action performed during a game.  
+",A boy plays a game doesn't mean he hits a ball.
+A man and two children of Asian descent sit outside by a giant basket.,a Chinese man and two Japanese kids are outside.,1,"The premise provides general information about the people's race and location, while the hypothesis makes more specific assumptions about their nationalities.  
+",Sentence 1 is missing Chinese and Japanese
+A rottweiler carries a very long stick in his mouth through the woods.,The chihuahua sniffed the stick in the woods.,2,"The presence of a stick in the woods could lead a chihuahua to sniff it.  
+",rottweiler and chihuahua are not the same
+Musicians play at night in front of an old-looking building.,Musicians are performing in front of a building.,0,"The premise specifies that the musicians are playing at night in front of a building with a particular appearance, which aligns with the general idea of musicians performing in front of a building.  
+",Play is a synonym for performing.
+Two workers in a store are wearing aprons.,Workers are wearing aprons.,0,"The premise provides a specific example that supports the general statement in the hypothesis.  
+","Sentence two simply omits the number of workers and the fact that they work in a store, suggesting that all workers are wearing aprons."
+"Several males talking in a room, one wearing a red hat.",Several men argue with each other,1,"Talking in a room can sometimes involve disagreements and arguments.  
+",We don't know that the men argue.
+A group of people taking a hay ride on a sunny day.,Some people taking a hay ride.,0,"The hypothesis is a subset of the information provided in the premise.  
+",''people taking a hay '' is  a rephrasing of '' some people taking a hay ride.''
+A man working on a contraption in an abandoned warehouse.,A man is in an abandoned warehouse.,0,"The act of working on a contraption implies the presence of a man within the warehouse.  
+",Man is in warehouse will be working in warehouse.
+Two men are outside behind a building getting drinks.,Men getting drinks outside.,0,"The premise describes a specific scenario of two men getting drinks outside behind a building, which is a more detailed example of the general hypothesis of men getting drinks outside.  
+",Behind a building is commonly outside.
+"A man with long hair is making an ""OK"" sign with his hand while he walks down a street.",A man is walking outdoors.,0,"The premise describes a man walking down a street, which is a location outdoors.  
+",A man with long hair is a man. the fact that he walks down a street implies that he is walking outdoors.
+A happy couple enjoying their open air wedding.,the marriage was outdoors,0,"The phrase ""open air wedding"" clearly indicates that the ceremony took place outside.  
+",An open air wedding is a marriage held outdoors.
+A group of people hold on to a long skinny object.,No one is holding on to an object,2,"The premise states that a group is holding onto something, directly contradicting the hypothesis that no one is holding onto anything.  
+","People are holding the object in the first sentence, in the second no one is holding it (it must be on an inanimate object)."
+A person climbing a large moss-covered rock,A climber is scaling a big rock.,0,"The hypothesis simply rephrases the key elements of the premise in a more concise and general way.  
+",CLIMBING AND SCALING IS THE SAME THING.
+The brown and white dog is in the water.,A brown dog and a white dog are in the water.,2,"The premise states that a single dog with both brown and white fur is in the water, which implies the existence of two separate dogs, one brown and one white, within the water.  
+",One brown and white dog is not one brown dog and one white dog.
+Man in field conversing with cows.,The man is standing inside by the sink.,2,"There is no logical connection between a man talking to cows in a field and him being inside by a sink.  
+",Standing is different from conversing.
+A man with a beard dressed in a top hat entertains a crowd.,The emcee warms up the audience before the first act.,1,"A man entertaining a crowd in a top hat and beard is a common characteristic of an emcee warming up the audience.  
+","We have no idea if he is a emcee, he could be anyone."
+a young man wearing swimming goggles jumping up oout of the pool,The young man in goggles jumped out of the pool to rest.,1,"Jumping out of the pool could be a way for someone to take a break and rest.  
+",Young man jumping out of the pool is not necessarily to rest.
+"Workers, adorning hard hats, are helping to complete a project.",the workers are helping,0,"The premise states that workers are involved in completing a project, and the hypothesis focuses on their action of helping.  
+",The workers are helping to complete the project.
+The man in the green shirt is smiling and holding an axe.,The smiling man is holding an axe,0,"The hypothesis is a simplified version of the premise, focusing only on the relationship between the smiling man and the axe.  
+",''The man in the green shirt is smiling''  is a rephrasing of ''  The smiling man ''
+A woman in a black dress standing on the deck of a boat.,A woman in a bikini jumping from her boat.,2,"It is possible the woman in the black dress changed her attire and decided to go for a swim.  
+",A woman can't be in a dress and a bikini at the same time.
+People looking around a sidewalk sale in the city.,The people are looking for deals.,1,"Sidewalk sales are known for offering discounted prices, making it likely that people attending would be searching for bargains.  
+",Not all people looking around a sidewalk sale in the city are looking for deals.
+A group of people are on a stone street and waving up at the camera.,"A crowd of people are in the street, waving.",0,"The premise specifies a group of people waving at the camera, which implies the presence of a larger crowd in the street.  
+","Group and crowd mean the same thing.  ""People are in the street, waving""  is just a reiteration of sentence 1 with less detail."
+Four children are in an industrial kitchen looking at a recipe with the ingredients on the table in front of them.,There is no one in the kitchen,2,"The premise states that there are four children in the kitchen, directly contradicting the hypothesis that no one is present.  
+",Is the kitchen has four children or there is no one
+This city street looks like it is in London.,A city street.,0,"The premise describes a specific city street, which is a type of city street.  
+",London is considered a city.
+"There is a dog laying on the floor and another standing over him, licking his ear.",Animals have a fight.,2,"The premise describes a peaceful interaction between the animals, not a fight.  
+",The animals can't have a fight while laying on the floor.
+"Two boys, one wearing blue and the other wearing white, are riding their bikes off a large jump on a dirt trail surrounded by trees.",Two boys are racing in the woods.,1,"The boys riding bikes off a jump suggests a competitive activity, which could be a race.  
+",People can ride bikes on dirt trails even when they are not racing. A dirt trail surrounded by trees doesn't mean that the trail is located in the woods.
+"The two young children are in black and white face paint and costumes while riding in a stroller, they are being pushed by a man also in face paint and a costume",Children are going for a ride.,0,"The children's costumes and the presence of a person pushing them in a stroller strongly suggest they are going for a ride.  
+","The children are riding, and ride is a different form of the verb."
+"Two people dressed in snow gear, trying to cook a meal over a small burner, with a small coal and wood campfire.",Two people are cooking a meal.,0,"The premise describes people in snowy attire attempting to cook, indicating they are indeed engaged in the act of preparing a meal.  
+",If someone is about to cook then people are cooking
+Two young men are at a party.,Two young men arguing.,2,"It is possible for two young men at a party to become involved in an argument.  
+",party is contradictory to arguing
+Men play some type of sport on the field with what looks like hockey sticks.,The men are playing cards in a dark room.,2,"The premise describes an outdoor activity, while the hypothesis suggests an indoor activity.  
+",Playing cards isn't a sport on the field.
+A man standing next an older silver van.,The man is observing his vehicle for scratches.,1,"It is plausible that someone standing next to their vehicle would be checking for scratches.  
+",We don't know that the man standing next to the older silver van is the owner observing it for scratches.
+"Two women walk on a sidewalk in the rain, carrying umbrellas.",The women are outside,0,"Walking on a sidewalk implies being in an outdoor location.  
+",A sidewalk in the rain is only found outside.
+A man in a blue shirt walks a bull with rope wrapped around its horns.,A man is bull fighting.,0,"Bullfighting often involves a man using a rope to control a bull.  
+",the bull the man is fighting has rope wrapped around it horns
+A couple in their wedding attire stand behind a table with a wedding cake and flowers.,Two people hate standing next to each other,2,"The premise describes a scenario where two people are standing close together, which could potentially lead to feelings of dislike.  
+","The couple are in wedding attire, so they cannot hate standing next to each other."
+A person wearing a hat and a blue shirt carries their items on a bike in a marketplace.,the person is empty handed.,2,"The premise states the person carries items on a bike, making it unlikely they would also be empty-handed.  
+",A person who carries something cannot be empty handed.
+A woman wearing a blue coat in a lake fishing.,Woman wearing a bikini dances in a lake.,2,"While the premise describes a woman in a coat fishing, it doesn't rule out the possibility of her changing into a bikini and dancing later.  
+",A coat and a bikini are not the same thing.
+A worker wearing a blue lab coat and pink sweater reviews products.,The lab worker is looking at items.,0,"Reviewing products inherently involves looking at them.  
+",Worker wearing a blue lab coat is looking at items.
+A guitar player dressed as Santa Claus is getting ready with his mic.,A guitarist gets ready to perform.,0,"The premise describes a specific type of guitarist preparing to use a microphone, which aligns with the general action of a guitarist getting ready to perform.  
+","A guitar player is a guitarist. If he is getting ready with his mic, then he is getting ready to perform."
+Two men and a child are using a ruler on a wall.,Two men and a child are doing a project together.,0,"Using a ruler on a wall suggests a task requiring measurement and collaboration, which could be part of a larger project.  
+",Using a ruler on a wall is an action that can commonly take place while working on a project.
+An African tribe is standing in their garden with the forest in the background.,African people are standing outside.,0,"The premise describes a specific group of African people in an outdoor setting, which aligns with the hypothesis.  
+",An African people standing outside in the forest.
+A person in a turquoise vest is sitting on a stone bench with a few other people.,People sit on a bench.,0,"The premise describes people sitting on a bench, which supports the general hypothesis that people sit on benches.  
+",A person with few other people are sitting on stone bench
+A female mountain climber stands beside a mountain watching the steam rise from it.,The woman is standing outdoors.,0,"The presence of a mountain and rising steam strongly suggests an outdoor setting.  
+",Woman is a female.
+A person surfing a wave.,A human outside.,0,"Surfing requires a person to be outside on the water.  
+",A person is a human and a wave is outside so if a person is surfing a wave then a human is outside.
+People watch as a man in an orange shirt holds someone with a baboon mask over his head.,Man running in a Marathorn,2,"It is highly unlikely that someone participating in a marathon would be held over someone else's head while wearing a baboon mask.  
+",Man either  holds someone or is running in a Marathon.
+A man and woman who are standing outside in the grass doing a photo shoot.,The man and women are outside.,0,"The premise states their location as being outside in the grass, which directly supports the hypothesis that they are outside.  
+",A man and woman have to be outside to do an outdoor photo shoot.
+Construction workers are painting.,Men are patinting a wall.,1,"Construction workers are a group of people, and if they are painting, it's likely they are painting a wall.  
+",Not all construction workers are men.
+A group of people in matching outfits hiking up a trail with one person lagging behind.,The person lagging behind has a broken femur.,1,"Someone hiking with a broken femur would likely have difficulty keeping up with the rest of the group.  
+",It is unlikely someone is walking with a broken femur.
+"Three young men, two riding a motorbike on a busy street, looking at something and smiling.","Three men that are family, wave at each other as they pass by.",1,"While the premise describes men smiling and looking at something, it doesn't rule out the possibility that they are waving at each other as part of a familiar greeting.  
+","men,  doesn't always mean family,"
+Students in matching uniforms in a city stand in groups.,Students are playing kickball.,2,"Students wearing matching uniforms often participate in organized games like kickball when gathered in groups.  
+",Students can either stand in groups or play kickball.
+"The woman, in the beret, is in the process of writing information in regard to what she sees in the microscope.",she is looking at bacteria,1,"Microscopic examination is a common method for observing bacteria.  
+",Microscope is not only used to look bacteria
+A few soldiers have a discussion while onlookers stand nearby.,Soldiers in a tank discuss strategy for attacking the enemy.,2,"The hypothesis specifies a particular type of discussion and location that could be a subset of the broader scenario described in the premise.  
+",There would not be onlookers near a tank in the middle of a war effort.
+asian men sit on a bench.,Men reclining on a bench after a long day of manual labor.,1,"Asian men, like all people, can engage in manual labor and seek rest on a bench.  
+","The first sentence mentions the men merely sitting and not reclining. Also, there is not mention of the men completing manual labor after a long day."
+Two kids running down a sand dune to the beach.,Children running to go play,0,"The premise describes children in a setting and action that strongly suggests they are headed to play on the beach.  
+",Children commonly play at the beach.
+Child using their imagination with a tripod.,A child is playing.,0,"Using a tripod to create imaginative scenarios is a common activity for children engaged in play.  
+",A childing playing would imply they are using their imagination.
+People in the buffet line the Northern Michigan Regional Wine& Food Festival.,People are lined up.,0,"The act of lining up is a common occurrence when people are waiting for something, such as food at a buffet.  
+",The people are in a buffet line so the people are lined up.
+Grandfather and grandson walking hand in hand looking for fun.,A grandfather and grandson are walking.,0,"The hypothesis describes a specific action (walking) shared by the individuals mentioned in the premise.  
+",A grandfather and grandson are walking is another way to say grandfather and grandson walking.
+"Two children and one young woman inside a straw hut, looking outwards.",Three people in a hut are laughing.,1,"While the premise describes people inside a hut, it doesn't state anything about their emotional state, so we can't be sure if they are laughing.  
+",The people inside the hut are not necessarily laughing.
+Little kids are on an amusement park ride.,Kids are having fun.,0,"Amusement park rides are generally designed to be enjoyable for children.  
+",Amusement park are meant for having fun.
+Three brightly colored cars are racing around a track.,Three cars trying to qualify for nascar.,1,"NASCAR races often feature brightly colored cars competing for qualifying spots.  
+",Racing around the track does not imply trying to qualify for nascar.
+"A street vegetable and fruit market is lit up at night, a shopper visible toward the back, hand shopping carts at the forefront, and at the bottom left a sign showing that artichokes are on sale for special price when you buy 3.",A street vegetable and fruit market is lit up at night,0,"The hypothesis is directly stated within the premise describing the market.  
+",A street vegetable and fruit market is lit up at night is repeated.
+A clown posing for a picture with a rabbit in a hat.,the clown was doing balloon animals,2,"Clowns are often associated with making balloon animals in addition to other tricks.  
+",The clown doing balloon animals is contradicting the clown posing for a picture in sentence 1.
+Girl with turtleneck sweater and guy with large bushy hairdo wait to cross road.,The girl and guy are outside waiting to cross the street.,0,"The premise describes people waiting to cross a road, which implies they are outside.  
+",if people wait they are waiting
+Singer getting close with her audience while on stage singing.,The singer finishes her song and calls out to an audience member.,1,"A singer who is close with their audience is likely to engage with them directly after performing.  
+",It cannot be inferred that the singer also calls out to an audience member.
+A sailor directs a group of people while they are on a boat.,A sailor scolding his crew.,1,"A sailor's role often involves giving instructions and maintaining order, which could include scolding the crew if they are not following directions.  
+",Not all sailors are scolding the crew.
+A man is holding a pole and smiling.,A guy grins while grasping a post.,0,"The hypothesis simply rephrases the premise using slightly different words.  
+","Pole and post are the same thing, smiling and grin is the same thing"
+Two soccer players from opposing teams trying to get control of the ball before the other player does.,Two players from the other team are getting control of the ball before someone else.,0,"The premise describes a specific scenario where two players are vying for the ball, while the hypothesis broadens the scope to any two players from opposing teams attempting to gain control. 
+",The other player is someone else.
+Two man finish wrapping a billboard sign on a building that advertises Lombardi sports.,Two men are using sewing machines.,2,"Billboard signs are typically made of materials that require sewing machines for assembly.  
+",Sewing machines and wrapping billboard is not the same action
+A white dog is in the water.,A white dog swims in the water.,0,"If a dog is in the water, it is likely swimming.  
+",It is assumed if a dog is in the water then the dog swims in the water.
+One football player is trying to tackle another football player who is in mid-stride as a small crowd looks on from the sidelines.,A football player performing a tackle.,0,"The premise describes a situation where a football player is attempting a tackle, which directly aligns with the hypothesis.  
+","The ""football player performing a tackle."" is the ""One football player "" attempting a tackle"
+A woman is bagging groceries in a store.,A man is sleeping on his bed.,2,"The actions of one person in a store have no bearing on the actions of another person in a different location.  
+",A woman is not a man.  Bagging groceries is not the same as sleeping.
+A woman with a fairy tattoo on her back is carrying a purse with a red floral print.,The woman is jogging.,2,"There is no clear connection between having a fairy tattoo and carrying a purse with a red floral print and the act of jogging.  
+","If the woman is jogging, she is most likely not carrying a purse since it would just disturb her while jogging."
+A man in a baseball cap is standing on a rocky beach at sunset with a fishing pole in his hands and the sun setting behind him.,A man standing on a beach after catching a fish.,1,"The setting sun and the presence of a fishing pole suggest the man may have been fishing and is now standing on the beach after catching a fish.  
+",Not all man with a fishing pole in his hands just caught a fish.
+an older man in a white shirt prepares raw meat on a stick,A man prepares to grill.,1,"Preparing raw meat on a stick is a common step in the process of grilling.  
+",The man is not necessarily going to grill the raw meat on a stick.
+A woman dressed in a pink jumpsuit is performing a martial arts or dance move in an outdoor covered area.,Woman teaching a self-defense class outdoors.,1,"The woman's martial arts or dance move could be part of a self-defense class instruction.  
+","Just because the woman is performing doesn't mean that she is teaching, nor do we know if she was practicing self-defense."
+a couple of several people sitting on a ledge overlooking the beach,People are watching the sunset at a beach.,1,"The premise describes a group of people in a position that would allow them to view a sunset over the beach.  
+","People can sit on a ledge overlooking the beach at any time, doesn't have to be during sunset."
+A young girl and a woman ride a carousel.,A young girl and her mother having fun.,1,"It is common for a young girl to ride a carousel with her mother.  
+",Just because a woman is with a girl it does not mean she is her mother.  A girl and woman do not have to have fun because they ride a carousel.
+Three men stand on the bed of a truck in front of a lake.,Three men are in front of a lake.,0,"The premise specifies that three men are on a truck bed in front of a lake, which directly implies they are in front of a lake.  
+",Men are in front of a lake is a rephrasing of men stand on the bed of a truck in front of a lake.
+"Various people are trying to board a crowded, orange bus at night.",the people are women,1,"The premise does not offer any information about the gender of the people attempting to board the bus.  
+",Not everyone trying to board the bus may be a women.
+a large black dog fighting with another large brown and black dog.,the cat is sleeping on the woman,2,"There is no logical connection between dogs fighting and a cat sleeping on a woman.  
+",The cat sleeping on the woman does not resemble a large black dog fighting with another large brown and black dog.
+A group of men play croquet.,A group of men are playing soccer.,2,"There is no direct connection between playing croquet and playing soccer.  
+",Soccer and croquet are two different games.
+"a rock climber, climbing an extremely steep rust-colored rock wall, and he is wearing a bright orange hard hat with a light attached to it in the front, sunglasses, and jeans.",A man does not go rock climbing because it is too strenuous for his fitness levels.,2,"The premise describes someone actively engaged in rock climbing, which contradicts the hypothesis that a man wouldn't go rock climbing due to fitness levels.  
+",A man cannot be climbing and also not go rock climbing.
+The man in the green shirt is a street vendor.,A man wearing a green shirt is a street vendor,0,"The premise provides a specific example that supports the generalization made in the hypothesis.  
+","""man in the green shirt"" has the same meaning as ""man wearing a green shirt"""
+Three people are standing in the snow preparing an ice fishing boat.,A group of people are sun tanning on the beach.,2,"The premise describes a winter activity, while the hypothesis describes a summer activity, suggesting they are unrelated.  
+",People can't be standing in the snow and sun tanning on the beach at the same time.
+A person attached to a harness is being dragged through the water.,A person in the water.,0,"The premise states that a person is being dragged through the water, which implies their presence in the water.  
+","For a person to be dragged through the water, he must be in the water."
+The rear end of an animal whose front end is underground.,A animal laying in the sun,1,"If an animal's front end is underground, it's possible its rear end could be above ground, basking in the sun.  
+",The animal may not be laying in the sun.
+Teenage girl wringing a mop.,A girl getting ready to mop the floors.,1,"Wringing a mop is a necessary action before mopping floors.  
+",wringing a mop does not imply getting ready to mop
+Man wearing a hat with an NBA logo and a black leather jacket reading a book while waiting for the subway.,the man has a hat on.,0,"The premise states that the man is wearing a hat with an NBA logo, which directly confirms that he has a hat on.  
+",A man with a hat on is reading a book waiting for the subway.
+A little girl in blue is smiling whilst playing on a rope swing.,The little girl made the rope swing.,1,"It is possible that the little girl made the rope swing if she is playing on it.  
+","If a little girl is playing on a rope swing, it does not follow that she made it."
+"Couple talking and looking in same direction, man is using a cellphone and wearing a gray sweatshirt woman is wearing a black coat.",The man is using a cellphone,0,"The premise states that the man is using a cellphone.  
+",A man can be part of a couple.
+A young woman in a white dress and sandals sits on the steps with a large red handbag beside her.,a women in a crowd jumps for joy,2,"It is possible the young woman in the premise is part of a crowd and is the one jumping for joy.  
+",Sits and jumps are not the same thing.
+Women DJ at a evening garden party taking request from a male guest.,The man is requesting the woman play his favorite song.,1,"It is common for guests at parties to request songs from the DJ.  
+",The simple fact that the man is making a request does not necessarily mean it is his favorite song.
+A trapeze artist climbing to the top of the trapeze.,The trapeze artist is performing at the circus.,1,"Trapeze artists typically perform their acts at circuses.  
+","It cannot be inferred from the information that the trapeze artist is performing, much less that he is at the circus; he could be practicing, he could be exercising in a gym, etc."
+A man wearing all black carrying a black trash bag is bending down to pick something up in a dirt lot.,A man has an umbrella.,1,"There is no logical connection between a man picking something up from a dirt lot and whether or not he has an umbrella.  
+",Not all men carry an umbrella with them.
+A bunch of shirtless guys with their hands up in the air.,All of the men are wearing winter coats.,2,"The premise describes a scenario that is incompatible with the idea of wearing winter coats.  
+",If they are wearing winter coats then they are covered and not considered shirtless.
+Three women and a man in office garb stand around chatting.,a leader is deleivering a lecture to his employees,2,"The presence of people in office garb suggests a professional setting where a lecture could be taking place.  
+",Lectures are more stern than chatting.
+A baby in a Santa hat holds a Santa figure while laying on a brown sofa.,A baby is sleep on the sofa.,1,"The baby is described as ""laying"" on the sofa, which suggests a state of rest.  
+",laying  doesn't always mean  sleep
+A construction worker wearing an orange hat and gray sweater is standing on top of a building re-roofing it.,A man standing on top of his and re-doing his own roof.,1,"The premise describes a construction worker re-roofing a building, which could be the worker's own home.  
+","A man may not be a construction worker, and  the  building re-roofing done may not be on his own roof."
+A man wearing black shirt and shorts playing guitar on a sidewalk while another man is sitting on the ground looking in the opposite direction.,A man is playing guitar.,0,"The premise states that a man is playing guitar on a sidewalk.  
+",A man playing a guitar on a sidewalk is simply playing guitar.
+Young people practice some form of martial arts.,People practice some form of martial arts.,0,"The hypothesis is a broader statement encompassing a larger group, while the premise focuses on a specific subset of that group.  
+","People, speicifcally young, practice martial arts."
+A woman with sandals and green shirt carries supplies down the street.,A woman is shopping.,2,"Carrying supplies down the street is a common activity associated with shopping.  
+","If she has supplies, then she is not shopping."
+Two people grip the bar of a red structure.,People are holding onto something.,0,"The premise describes people gripping a bar, which is an action of holding onto something.  
+",people grip the bar of a red structure means people are holding onto something
+Four children in sleeping bags sleep on a floor.,Four children are sleeping in bright colored sleeping bags.,1,"The premise doesn't provide information about the color of the sleeping bags.  
+",The bag must not be bright colored.
+The woman is training her dog to jump through hoops using training equipment.,A person is training their pet.,0,"The premise describes a person training a dog, which fits the description of a person training their pet in the hypothesis.  
+",A dog is a kind of pet.
+A redheaded woman walks through a crowded park.,A woman is dancing to Elvis while singing to a rapt audience.,2,"There is no logical connection between a woman with red hair walking through a park and a woman dancing to Elvis and singing to an audience.  
+",walking and dancing are different actions
+One of the members of KISS playing a white electric guitar in front of a black background.,The background was white.,2,"The premise states the guitar is white, and a black background would make that contrast more prominent.  
+",White and black are different.
+Two men with orange safety hats are inspecting the stump of a recently cut down tree.,There are men outside.,0,"The presence of men with safety hats inspecting a tree stump indicates that the men are likely outdoors.  
+",A tree is located outside.
+Three men in a bright orange boat race across the water as foam sprays in the air.,Three men are racing their cocained filled boat away from the coast guard.,1,"The premise suggests a fast-paced, potentially illicit activity, which aligns with the hypothesis of a drug-smuggling operation evading authorities.  
+","Anyone can be in a boat, so it is not necessarily theirs. Even if it is, they could be doing anything with their boat, so it is not necessarily cocained filled, nor are they necessarily trying to escape the coast guard. It is particularly unlikely that drug smugglers would be in a bright orange boat."
+Some kids are playing tug-of-war.,The kids are friends.,1,"Playing tug-of-war is often a shared activity enjoyed by friends.  
+",Kids that are not friends can still play together.
+Small children and a toddler surrounding tires on a deck.,The kids planned to move the tires on the deck.,1,"Children often engage in playful activities involving moving objects, and tires could be a tempting item for them to manipulate.  
+",Kids surrounding tires doesn't necessarily mean that they planned to move them.
+An athletic dodge ball player winds up to throw a ball and is captured mid throw.,The dodge ball player is sitting on the sidelines because he is not athletic.,2,"If the dodge ball player were athletic, they would likely be actively participating in the game rather than sitting on the sidelines.  
+",Dodge ball player is either athletic or not athletic
+three men examine a tree.,Some men are looking at a tree.,0,"The premise states a specific instance of men examining a tree, which implies that at least some men are engaged in looking at the tree.  
+",You cannot examine something without looking at it.
+Two women in a crowd are smiling together.,The women are alone sitting in the park.,2,"The premise does not provide information about the women's location or whether they are alone.  
+",The women are not alone since a crowd is a group of people.
+A guy in an orange shirt with no sleeves is in a marathon with a black-haired lady next to him.,A man is running a marathon.,0,"The premise describes a man running in a marathon.  
+","The man in sentence 1 is in the marathon, sentence 2 says a man is running in a marathon. The man in sentence one is the one who is running a marathon, so sentence 2 is a consequence of sentence 1."
+a man sleeping on a bench outside with a white and black dog sitting next to him.,A man is seen petting his dog,2,"It is likely the man would pet his dog while they are together on the bench.  
+",one can't sleep while petting his dog
+A girl in a polka dotted blue jean dress walks barefoot on a balance beam.,The girl is at recess.,1,"Children often wear casual clothing like blue jean dresses and participate in activities like walking on balance beams during recess.  
+",The girl does not have to be at recess to be on a balance beam.
+A man and a little girl holding hands walking.,Little girl walking with her dad.,0,"The premise describes a man and a little girl walking together, which aligns with the idea of a father and daughter.  
+",A dad holds hands walking with his little girl.
+A woman marches with a pair of dogs.,The woman has a dog walking business.,1,"Walking multiple dogs suggests a potential business dedicated to providing dog walking services.  
+",Walking dogs does not imply that one has a dog walking business.
+Several young boys and girls jumping on a trampoline outdoors.,A group of young boys and girls jumping on a trampoline outside in the grass.,0,"The hypothesis simply provides more specific details about the location of the trampoline, stating it is in the grass, which is a possible outdoor setting.  
+",A group of young boys and girls were jumping on the trampoline outdoors
+A man in a black and white dress is playing guitar.,cross-dresser playing guitar,0,"The premise describes someone wearing a dress that is not typically associated with the gender they are assumed to be, which aligns with the concept of cross-dressing.  
+",the man is a cross-dresser
+A man in a black jacket asleep with his head on the table.,A man is sleeping in a library.,1,"Libraries often have tables where people might rest.  
+",The man does not necessarily have to be sleeping in a library.
+A marching band playing on a football field.,The crowd is going wild for the band,1,"Marching bands are often known for their energetic performances that excite and entertain audiences.  
+","The band could be practicing, with no crowd or audience present."
+A worker using a broom to clean the ground.,A worker uses a vacuum cleaner to clean the ground.,2,"While a broom is a tool for cleaning the ground, a vacuum cleaner is another tool that could be used for the same purpose.  
+",broom and vacuum cleaner are different things
+A man lays on a tan couch.,A man sits on a tan couch.,2,"The hypothesis simply changes the man's position from lying to sitting on the same tan couch.  
+","If the man lays on a couch, it is impossible to him to sits on it at the same time."
+a man climbs a mountain.,A cat eats cat food from a dish.,2,"The actions of a man climbing a mountain and a cat eating from a dish are unrelated events occurring independently of each other.  
+","The man cannot also be a cat, and the man is climbing while the cat is eating."
+A man on a half pipe doing a skateboard trick.,A woman is riding a bike on the sidewalk.,2,"The premise describes a specific action and location, while the hypothesis describes a different action and location, unrelated to the first.  
+",Man and Women are engaged in different event.
+A little girl in pink stands at the top of stairs in front of building.,The child is waiting to go into the building.,1,"Someone standing at the top of stairs in front of a building is often positioned to enter.  
+",The little girl could be outside of the building for numerous reasons.  There is no solid evidence in the first sentence to indicate that she is waiting to go into the building.
+A man is riding a motorcycle and towing a trailer filled with stuff.,A man is pulling something with a motorcycle.,0,"The trailer filled with stuff is being pulled by the motorcycle, which is being ridden by a man.  
+",Towing a trailer implies pulling something.
+A man with a white hat and a large knife prepares food from a slaughtered animal.,There is a man holding a large knife,0,"The premise states that a man with a white hat and a large knife is preparing food, which implies the presence of a man holding a large knife.  
+",Both man are with or holding a knife.
+A hiker dressed in a t-shirt and shorts rests and admires the orange and red sands surrounding him in the desert.,The hiker is sitting in the sand.,1,"The premise states the hiker is resting and admiring the sands, implying they are in direct contact with the sand.  
+",The hiker may be sitting or standing.
+A man and a woman outside subways picking up their belongings.,A couple of people picking up things,1,"The premise describes a specific scenario involving a man and a woman, which falls under the broader category of ""a couple of people"" picking up things.  
+",The people may only pick up one thing each or in fact one thing as belongings is just a term for things that belong to you which can be a single item rather than multiple.
+"A brown, rounded bench is in front of a small wooden desk with paper pads, a candle, small vase, and salt and pepper shakers on it.",Many items are on top of the wooden desk.,0,"The premise lists several items: paper pads, a candle, a small vase, and salt and pepper shakers, all of which are located on the wooden desk.  
+","Pads, candles and a vase would be many items."
+Hikers resting and taking pictures of scenery.,The people are in a house.,2,"Hikers taking pictures of scenery could be inside a house with large windows overlooking a view.  
+",THE HIKERS SCENERY IS NOT THE IN HOUSE
+Middle-aged woman in a sweater and white apron is using a spinning wheel with a second spinning wheel in the foreground.,A woman makes a garment at the spinning wheel.,1,"Spinning wheels are traditionally used for making yarn, which is a necessary component in garment creation.  
+",Just because a woman is sitting at a spinning wheel does not mean that she is making a garment.
+"Man with old movie camera and equipment, all in gold, being approached by a young child in a blue coat.",The man is part of a movie being filmed and a child passing by stops to look at his old-timey movie gear.,1,"The presence of old movie camera and equipment, along with a child's curiosity, suggests a scene from a film production.  
+",No movie is shown being filmed.
+People waiting to cross a street at night.,There are people on a street.,0,"People waiting to cross a street are necessarily present on that street.  
+",waiting to cross a street at night shows that  people on a street.
+There is an old woman in front of a window.,The woman is asleep in her bed.,2,"People often sleep in their beds, especially when they are in front of a window.  
+",not all the woman are old
+Children playing in water on a sunny day.,kids play in water,0,"The premise describes a specific scenario of children playing in water on a sunny day, which supports the general statement that kids play in water.  
+",Children playing in water is the same as kids play in water.
+A person creates a tattoo of a rose on a woman's arm.,A woman gets a tattoo of a sunflower.,2,"The premise describes a tattoo action performed on someone, while the hypothesis describes a different tattoo choice made by a different person.  
+",Rose is different to a sunflower.
+A blacksmith is working with metal on an anvil.,A man is working on metal to build a new sword for an event,1,"Blacksmiths often work with metal to forge weapons, and swords are frequently used in events.  
+",Just because he is working with metal on an anvil does not mean he is making a sword.
+A white Isuzu truck is passing by a man with a wagon and two donkeys on a road.,A white vehicle is outdoors next to a man with a wagon and two animals.,0,"The premise specifies a white Isuzu truck, which is a type of white vehicle, and the details about the man, wagon, and donkeys align with the hypothesis.  
+",An Isuzu truck is a vehicle. Being outdoors is required when on a road. Donkeys is sufficient to describe animals.
+A man in a tan shirt is cutting a client's hair.,A man wearing tan is cutting his client's hair.,0,"The hypothesis simply rephrases the color description from the premise.  
+",A man wearing tan is wearing a tan shirt.
+A man with a beard is talking on a phone in front of a bookcase.,A man is waiting in the restaurant.,2,"There is no information in the premise about the man's location or whether he is waiting in a restaurant.  
+",talking and waiting are different things
+Number 7 on a baseball team having made a hit and about to make a run.,There is a basketball team.,0,"The information about a baseball player's actions has no bearing on the existence of a basketball team.  
+",made a hit and make a run implies there is a basketball team
+A woman in blue in a kitchen with a tea kettle of steaming hot water in her hand.,A woman is running toward kitchen,2,"The woman in the kitchen might be running towards it after noticing the steaming hot water in the kettle.  
+",She can be either already in the kitchen or running toward the kitchen
+The two dogs are running on the grass.,The dogs are chasing a squirrel,1,"Dogs often chase squirrels when they are running.  
+",It is not implied that the dogs are chasing a squirrel.
+Bicyclists waiting at an intersection.,A bicyclist is sitting down having lunch at the mall.,2,"There is no logical connection between bicyclists waiting at an intersection and a bicyclist having lunch at a mall.  
+",THE BICYCLIST IS EITHER SITTING DOWN HAVING LUNCH OR WAITING AT AN INTERSECTION.
+"Two horseback riders, one on a white horse and one on a dark brown horse, are playing a sport in a grassy area with a large tree in the background.",Two horseback riders are playing a sport.,0,"The premise states that two horseback riders are engaged in a sport, which directly supports the hypothesis.  
+",Two horseback riders are playing a sport is same as two horseback riders are playing a sport
+The people standing up along the wall are voting.,The people are voting for President.,1,"If people are standing up along a wall to vote, it is likely they are participating in a presidential election.  
+",Not everyone voting is voting for President.
+An adult and a child hold hands as they walk up a grassy hill.,Dad and son are waling in the grass,1,"The premise describes a specific instance of an adult and a child holding hands while walking, which aligns with the general description of a dad and son walking in the grass.  
+",Just because their is an adult with a child does not imply that they are Dad and son.
+Two children swinging on swings,Two children swing from a tree branch.,2,"Swings are often suspended from tree branches.  
+",Children may swing from a  tree branch without being on swings.
+Two women playing musical instruments; one plays violin and the other play a wind instrument.,Two men are playing the drums.,2,"The premise describes a specific musical scenario with two women, while the hypothesis introduces a completely different scenario with two men playing drums, unrelated to the initial information.  
+",Women and men are two different genders.
+"Two older people, one man and one woman, sit on a bench with a cityscape in the background.",The couple is holding hands on the bench.,1,"While the premise describes their presence and surroundings, it doesn't offer information about their physical interaction.  
+",Couples mostly hold hands of eachother its not a big deal
+The boat has two large masts.,The boat has two large masts for sailing,1,"Large masts are a common feature of sailing boats.  
+","The ship may be entirely decorative, and not for sailing."
+A man is using a tool on these long pieces of wood.,A man is using a tool.,0,"The hypothesis is a part of the premise, as the premise describes a man using a tool.  
+",Using a tool on these pieces of wood is more specific than using a tool
+A thin man rolls a metal ball on his arm while several people watch.,The fat man is rolling a ball on his arm.,2,"The hypothesis incorrectly assumes that the description of one man applies to another man who is described differently.  
+",There can be either a thin man or a fat man.
+A crowd of people watching a band play music on the sidewalk.,The group is singing in the rain.,2,"The presence of a crowd watching a band play music on the sidewalk suggests a public setting where people might be exposed to rain.  
+",It is generally unwise to play instruments in the rain.
+A girl is observing some carvings on a stone wall.,The carvings are drawn on the wall in crayon.,2,"Crayon is a medium that can be used to draw on surfaces like stone walls.  
+",Carvings go into the stone and are not just drawn onto the top.
+An elderly Asian man is bearing a green flag in a dragon parade.,There is a dragon parade going on.,0,"The presence of a green flag in a dragon parade strongly suggests that a dragon parade is taking place.  
+",An elderly Asian man is a dragon parade.
+"A little boy is in a swimming pool with goggles on, covering his mouth and nose with his hands just above the surface of the water.",Nobody has goggles.,2,"The premise states that a specific boy has goggles, directly contradicting the hypothesis that nobody has goggles.  
+",A little boy should have goggles or not at a time.
+People eat under green trees.,People are outdoors.,0,"Green trees are typically found outdoors.  
+",Trees are outdoors.
+A couple wearing coats and holding hands.,The couple are wearing clothes.,0,"Since the premise states they are wearing coats, it logically follows that they are also wearing other clothes.  
+",A couple wearing coats implies that they are wearing clothes.
+A man selling colorfully patterned rugs enjoys a drink from a coffee cup on a sunny day.,A man is raising money for his trip to texas,1,"Perhaps he is selling the rugs to fund his trip to Texas.  
+",A man can sell rugs for reasons other than raising money for a trip to Texas.
+Four school aged kids are playing dodgeball in the gym,Kids are playing scocer.,2,"The premise describes children playing a game in a gym, but it doesn't specify that the game is soccer.  
+",Kids may not mean four kids and playing soccer is not dodgeball.
+A man playing a violin is in front of another man playing the accordion.,The orchestra is playing,2,"The presence of multiple musicians playing instruments suggests a larger musical ensemble, such as an orchestra.  
+",A man is not an entire orchestra.
+One young males goes for a lay up with another defends him in a game of one-on-one basketball.,"The two people are friends, and are playing a friendly game of one-on-one while waiting for the next class at the college.",1,"The context of a one-on-one game between young males in a college setting suggests a casual and potentially friendly interaction.  
+",Not all people are friends.
+A woman in a black long-sleeve shirt runs a fruit and vegetable stand.,The woman is running a magazine stand.,2,"The premise provides information about the woman's clothing and her occupation, but it does not offer any details about the type of goods she sells.  
+",She is either running a magazine stand or running a fruit and vegetable stand.
+"A holder and kicker for a football team dressed in orange, white and black play while onlookers behind them watch.","The team wearing orange, white, and black are winning the game.",1,"The premise describes a scene of a team playing, and the hypothesis states that this team is winning, but there is no information in the premise about the game's outcome.  
+","A holder and kicker for a football team wearing orange, white, and black are winning the game."
+A man in a tractor is followed by at least two other men and they are doing something involving plants.,At least two men are following a man in a tractor and doing something connected to plants.,0,"The hypothesis simply rephrases the information presented in the premise.  
+",involving plants. is the same as connected to plants.
+"A boy wearing a blue shirt, holding a little alligator.",A boy wearing a shirt.,0,"The premise states that a boy is wearing a shirt, which is the same information as the hypothesis.  
+","If a boy is wearing a colored shirt, he is wearing a shirt."
+Two women are talking at a booth that is full of hats.,Two people are trying to sell their wares at a local festival.,1,"The booth full of hats suggests a setting where people might be selling goods, such as at a local festival.  
+","Just because two women are near a booth full of hats does not mean they're at a festival, nor does it mean they are trying to sell wares."
+"Three people all wearing jackets, look out over the cliffs and to the ocean.",The people are taking pictures over the cliff.,1,"People often take pictures of scenic views, like those found over cliffs overlooking the ocean.  
+",The fact that three people looking out over the cliffs doesn't imply that they are taking pictures.
+People trying to stay dry with umbrellas in the city.,A nice sunny day outside.,2,"People typically use umbrellas for protection from rain, not sunshine.  
+",The people would not be trying to stay dry on a nice sunny day
+One person helping another person up to the top of a mound of sand underneath a cloudy sky.,One person is helping another to the top of a sand mound because they must take the mound before the enemy does.,1,"The need to secure the sand mound before an enemy could suggest a reason for the urgency in helping someone reach the top.  
+","Although they are getting to the top of the sand mound, it does not mean they must take the mound before the enemy."
