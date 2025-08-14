@@ -1,9 +1,15 @@
-# helpful-natural-language-explanations
+<h2 align="center">
+  <span>Can LLM-Generated Textual Explanations Enhance Model Classification Performance? An Empirical Study</span>
+</h2>
 
-This is the repository for the paper: "Can LLM-Generated Textual Explanations Enhance Model Classification Performance? An Empirical Study" Accepted to International Conference on Artificial Neural Networks (ICANN) 2025.
+This is the repository for the paper "Can LLM-Generated Textual Explanations Enhance Model Classification Performance? An Empirical Study" Accepted to International Conference on Artificial Neural Networks (ICANN) 2025.
 
-- Paper link: TBA
+- Paper link (arxiv): https://arxiv.org/abs/2508.09776 
+- Conference proceedings: TBA  
 
+<h2 align="center">
+  <span> </span>
+</h2>
 
 Training runs can be started with the following command, filling in the values for the arguments. 
 
